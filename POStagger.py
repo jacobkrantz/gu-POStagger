@@ -19,6 +19,7 @@ class POStagger:
     def tagSequence(self, obsLst):
         self.__obs = obsLst
         self.__jMax = len(self.__obs)
+        taggedSequence = []
 
         isValid,problemWord = self.__isValidObs()
 
@@ -38,7 +39,8 @@ class POStagger:
     # tags an entire file with their POS tags.
     # separates file into sequences. These chunks are then passed into
     # 'tagSequence()'. All tagged sequences are then combined to form output.
-    def tagAllFile(self, testFile):
+    # Returns the list of tagged sequences while also outputting to a file.
+    def tagAllFile(self, testFile, outFile):
         finalTups = []
 
         AllObs = self.__getFileContents(testFile)
@@ -47,6 +49,7 @@ class POStagger:
         for sequence in AllObs:
             finalTups.append(self.tagSequence(sequence))
 
+        self.__outputTaggedSeq(outFile, finalTups)
         return finalTups
 
 
@@ -198,7 +201,7 @@ class POStagger:
 
 
     # imports the observation content from a file. Returns contents
-    # as a list.
+    # as a list. Only imports the observations of the file.
     def __getFileContents(self, testFile):
         rawFile = open(testFile,'r')
         obs = []
@@ -241,19 +244,50 @@ class POStagger:
 
         return False
 
+
+    # outputs finalTups into outFile. Maintians same output format as the
+    # testing and training sets for easy comparison.
+    def __outputTaggedSeq(self, outFile, finalTups):
+        fout = open(outFile, 'w')
+
+        for sequence in finalTups:
+            for tup in sequence:
+                fout.write(tup[0])
+                fout.write(" ")
+                fout.write(tup[1])
+                fout.write('\n')
+        fout.close()
+
+
+    # runs a simple test of tagSequence()
+    def __simpleTest(self):
+        ps = POStagger()
+
+        line = "I want to go to the race ."
+        seq  = line.split(' ')
+
+        tagged = ps.tagSequence(seq)
+
+        line = "that is a cold , wet dog ."
+        seq  = line.split(' ')
+        tagged2 = ps.tagSequence(seq)
+
+        print tagged
+        print
+        print tagged2
+
 # for running functionality tests.
 if(__name__ == "__main__"):
     ps = POStagger()
+    inFile = "./wordSets/brown_test.txt"
+    outFile = "./wordSets/POStagged.txt"
 
-    line = "I want to go to the race ."
-    seq  = line.split(' ')
+    if(raw_input("Enter 's' for simple test: ") == 'y'):
+        ps.__simpleTest()
+    else:
+        print("Current file: " + inFile)
+        choice = raw_input("Enter 'c' to change: ")
+        if(choice == 'c'):
+            inFile = raw_input("Enter file name: ")
 
-    tagged = ps.tagSequence(seq)
-
-    line = "that is a cold , wet dog ."
-    seq  = line.split(' ')
-    tagged2 = ps.tagSequence(seq)
-
-    print tagged
-    print
-    print tagged2
+        ps.tagAllFile(inFile, outFile)

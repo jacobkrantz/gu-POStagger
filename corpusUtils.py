@@ -49,6 +49,7 @@ class CorpusUtils:
 
         for tup in wordLst:
             word = tup[0]
+            word = word.lower()
             tag = tup[1]
 
             fname.write(word)
@@ -113,4 +114,4 @@ class CorpusUtils:
 if(__name__ == "__main__"):
     cu = CorpusUtils()
     cu.getTaggedWords()
-    cu.buildSets(35,15)
+    cu.buildSets(5,20)
