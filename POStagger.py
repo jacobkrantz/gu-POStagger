@@ -260,15 +260,15 @@ class POStagger:
 
 
     # runs a simple test of tagSequence()
-    def __simpleTest(self):
+    def simpleTest(self):
         ps = POStagger()
 
-        line = "I want to go to the race ."
+        line = "raise your right hand ."
         seq  = line.split(' ')
 
         tagged = ps.tagSequence(seq)
 
-        line = "that is a cold , wet dog ."
+        line = "hand me the book ."
         seq  = line.split(' ')
         tagged2 = ps.tagSequence(seq)
 
@@ -282,8 +282,8 @@ if(__name__ == "__main__"):
     inFile = "./wordSets/brown_test.txt"
     outFile = "./wordSets/POStagged.txt"
 
-    if(raw_input("Enter 's' for simple test: ") == 'y'):
-        ps.__simpleTest()
+    if(raw_input("Enter 's' for simple test: ") == 's'):
+        ps.simpleTest()
     else:
         print("Current file: " + inFile)
         choice = raw_input("Enter 'c' to change: ")
