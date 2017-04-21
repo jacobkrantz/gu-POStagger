@@ -114,4 +114,4 @@ class CorpusUtils:
 if(__name__ == "__main__"):
     cu = CorpusUtils()
     cu.getTaggedWords()
-    cu.buildSets(5,20)
+    cu.buildSets(10,5)

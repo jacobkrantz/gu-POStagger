@@ -1,0 +1,537 @@
+Current in test: the fulton county  In made:  which had over-all 
+Current in test: 's recent primary  In made:  which had over-all 
+Current in test: recent primary election  In made:  which had over-all 
+Current in test: '' that any  In made:  which had over-all 
+Current in test: that any irregularities  In made:  which had over-all 
+Current in test: . the jury  In made:  which had over-all 
+Current in test: the jury further  In made:  which had over-all 
+Current in test: , which had  In made:  which had over-all 
+Correct--- which WDT
+which WDT
+
+Correct--- had HVD
+had HVD
+
+Correct--- over-all JJ
+over-all JJ
+
+Correct--- charge NN
+charge NN
+
+Correct--- of IN
+of IN
+
+Correct--- the AT
+the AT
+
+Correct--- election NN
+election NN
+
+Correct--- , ,
+, ,
+
+Correct--- `` ``
+`` ``
+
+Correct--- deserves VBZ
+deserves VBZ
+
+Correct--- the AT
+the AT
+
+Correct--- praise NN
+praise NN
+
+Correct--- and CC
+and CC
+
+Correct--- thanks NNS
+thanks NNS
+
+Correct--- of IN
+of IN
+
+Correct--- the AT
+the AT
+
+Wrong--- city NN-TL
+city NN
+
+Wrong--- of IN-TL
+of IN
+
+Wrong--- atlanta NP-TL
+atlanta NP
+
+Correct--- '' ''
+'' ''
+
+Correct--- for IN
+for IN
+
+Correct--- the AT
+the AT
+
+Correct--- manner NN
+manner NN
+
+Correct--- in IN
+in IN
+
+Correct--- which WDT
+which WDT
+
+Correct--- the AT
+the AT
+
+Correct--- election NN
+election NN
+
+Correct--- was BEDZ
+was BEDZ
+
+Correct--- conducted VBN
+conducted VBN
+
+Current in test: . `` the  In made:  . `` only 
+Current in test: `` the september-october  In made:  . `` only 
+Current in test: '' in the  In made:  . `` only 
+Current in test: in the hard-fought  In made:  . `` only 
+Current in test: . . ``  In made:  . `` only 
+Correct--- . .
+. .
+
+Correct--- `` ``
+`` ``
+
+Correct--- only RB
+only RB
+
+Correct--- a AT
+a AT
+
+Correct--- relative JJ
+relative JJ
+
+Correct--- handful NN
+handful NN
+
+Correct--- of IN
+of IN
+
+Correct--- such JJ
+such JJ
+
+Correct--- reports NNS
+reports NNS
+
+Correct--- was BEDZ
+was BEDZ
+
+Correct--- received VBN
+received VBN
+
+Correct--- '' ''
+'' ''
+
+Correct--- , ,
+, ,
+
+Correct--- the AT
+the AT
+
+Correct--- jury NN
+jury NN
+
+Correct--- said VBD
+said VBD
+
+Correct--- , ,
+, ,
+
+Correct--- `` ``
+`` ``
+
+Correct--- considering IN
+considering IN
+
+Correct--- the AT
+the AT
+
+Correct--- widespread JJ
+widespread JJ
+
+Correct--- interest NN
+interest NN
+
+Correct--- in IN
+in IN
+
+Correct--- the AT
+the AT
+
+Correct--- election NN
+election NN
+
+Current in test: , the number  In made:  , the jury 
+Current in test: the number of  In made:  , the jury 
+Current in test: '' , the  In made:  , the jury 
+Correct--- , ,
+, ,
+
+Correct--- the AT
+the AT
+
+Correct--- jury NN
+jury NN
+
+Correct--- said VBD
+said VBD
+
+Correct--- it PPS
+it PPS
+
+Correct--- did DOD
+did DOD
+
+Correct--- find VB
+find VB
+
+Correct--- that CS
+that CS
+
+Correct--- many AP
+many AP
+
+Correct--- of IN
+of IN
+
+Correct--- georgia's NP$
+georgia's NP$
+
+Correct--- registration NN
+registration NN
+
+Correct--- and CC
+and CC
+
+Correct--- election NN
+election NN
+
+Correct--- laws NNS
+laws NNS
+
+Correct--- `` ``
+`` ``
+
+Correct--- are BER
+are BER
+
+Correct--- outmoded JJ
+outmoded JJ
+
+Correct--- or CC
+or CC
+
+Correct--- inadequate JJ
+inadequate JJ
+
+Correct--- and CC
+and CC
+
+Correct--- often RB
+often RB
+
+Correct--- ambiguous JJ
+ambiguous JJ
+
+Current in test: '' . it  In made:  '' . merger 
+Current in test: . it recommended  In made:  '' . merger 
+Current in test: it recommended that  In made:  '' . merger 
+Current in test: '' . the  In made:  '' . merger 
+Current in test: . the grand  In made:  '' . merger 
+Current in test: the grand jury  In made:  '' . merger 
+Current in test: , among them  In made:  '' . merger 
+Current in test: among them the  In made:  '' . merger 
+Correct--- '' ''
+'' ''
+
+Correct--- . .
+. .
+
+Wrong--- merger NN-HL
+merger NN
+
+Wrong--- proposed VBN-HL
+proposed VBN
+
+Wrong--- however WRB
+however RB
+
+Correct--- , ,
+, ,
+
+Correct--- the AT
+the AT
+
+Correct--- jury NN
+jury NN
+
+Correct--- said VBD
+said VBD
+
+Correct--- it PPS
+it PPS
+
+Correct--- believes VBZ
+believes VBZ
+
+Correct--- `` ``
+`` ``
+
+Correct--- these DTS
+these DTS
+
+Correct--- two CD
+two CD
+
+Correct--- offices NNS
+offices NNS
+
+Correct--- should MD
+should MD
+
+Correct--- be BE
+be BE
+
+Correct--- combined VBN
+combined VBN
+
+Correct--- to TO
+to TO
+
+Correct--- achieve VB
+achieve VB
+
+Correct--- greater JJR
+greater JJR
+
+Correct--- efficiency NN
+efficiency NN
+
+Correct--- and CC
+and CC
+
+Correct--- reduce VB
+reduce VB
+
+Correct--- the AT
+the AT
+
+Correct--- cost NN
+cost NN
+
+Correct--- of IN
+of IN
+
+Correct--- administration NN
+administration NN
+
+Correct--- '' ''
+'' ''
+
+Correct--- . .
+. .
+
+Correct--- the AT
+the AT
+
+Wrong--- city NN-TL
+city NN
+
+Wrong--- purchasing VBG-TL
+purchasing NN
+
+Wrong--- department NN-TL
+department NN
+
+Correct--- , ,
+, ,
+
+Correct--- the AT
+the AT
+
+Correct--- jury NN
+jury NN
+
+Correct--- said VBD
+said VBD
+
+Correct--- , ,
+, ,
+
+Correct--- `` ``
+`` ``
+
+Correct--- is BEZ
+is BEZ
+
+Correct--- lacking VBG
+lacking VBG
+
+Correct--- in IN
+in IN
+
+Correct--- experienced VBN
+experienced VBN
+
+Correct--- clerical JJ
+clerical JJ
+
+Correct--- personnel NNS
+personnel NNS
+
+Correct--- as CS
+as CS
+
+Correct--- a AT
+a AT
+
+Correct--- result NN
+result NN
+
+Correct--- of IN
+of IN
+
+Correct--- city NN
+city NN
+
+Correct--- personnel NNS
+personnel NNS
+
+Correct--- policies NNS
+policies NNS
+
+Correct--- '' ''
+'' ''
+
+Correct--- . .
+. .
+
+Correct--- it PPS
+it PPS
+
+Correct--- urged VBD
+urged VBD
+
+Correct--- that CS
+that CS
+
+Correct--- the AT
+the AT
+
+Correct--- city NN
+city NN
+
+Correct--- `` ``
+`` ``
+
+Correct--- take VB
+take VB
+
+Correct--- steps NNS
+steps NNS
+
+Correct--- to TO
+to TO
+
+Correct--- remedy VB
+remedy VB
+
+Correct--- '' ''
+'' ''
+
+Correct--- this DT
+this DT
+
+Correct--- problem NN
+problem NN
+
+Correct--- . .
+. .
+
+Correct--- implementation NN
+implementation NN
+
+Correct--- of IN
+of IN
+
+Correct--- georgia's NP$
+georgia's NP$
+
+Correct--- automobile NN
+automobile NN
+
+Correct--- title NN
+title NN
+
+Correct--- law NN
+law NN
+
+Correct--- was BEDZ
+was BEDZ
+
+Correct--- also RB
+also RB
+
+Correct--- recommended VBN
+recommended VBN
+
+Correct--- by IN
+by IN
+
+Correct--- the AT
+the AT
+
+Correct--- outgoing JJ
+outgoing JJ
+
+Current in test: jury . it  In made:  jury . the 
+Current in test: . it urged  In made:  jury . the 
+Current in test: it urged that  In made:  jury . the 
+Current in test: '' . the  In made:  jury . the 
+Current in test: . the grand  In made:  jury . the 
+Current in test: the grand jury  In made:  jury . the 
+Current in test: 's handling of  In made:  jury . the 
+Current in test: handling of federal  In made:  jury . the 
+Current in test: . `` this  In made:  jury . the 
+Current in test: `` this is  In made:  jury . the 
+Current in test: '' , the  In made:  jury . the 
+Current in test: , the jury  In made:  jury . the 
+Current in test: the jury said  In made:  jury . the 
+Current in test: , but the  In made:  jury . the 
+Current in test: but the state  In made:  jury . the 
+Current in test: , which receives  In made:  jury . the 
+Current in test: which receives none  In made:  jury . the 
+Current in test: . the jurors  In made:  jury . the 
+Current in test: the jurors said  In made:  jury . the 
+Current in test: '' . nevertheless  In made:  jury . the 
+Current in test: . nevertheless ,  In made:  jury . the 
+Current in test: nevertheless , ``  In made:  jury . the 
+Current in test: , `` we  In made:  jury . the 
+Current in test: `` we feel  In made:  jury . the 
+Current in test: '' , the  In made:  jury . the 
+Current in test: , the jurors  In made:  jury . the 
+Current in test: the jurors said  In made:  jury . the 
+Current in test: . `` failure  In made:  jury . the 
+Current in test: `` failure to  In made:  jury . the 
+Current in test: '' on fulton  In made:  jury . the 
+Current in test: on fulton taxpayers  In made:  jury . the 
+Current in test: . the jury  In made:  jury . the 
+Current in test: the jury also  In made:  jury . the 
+Current in test: 's court which  In made:  jury . the 
+Current in test: court which has  In made:  jury . the 
+Current in test: , guardians and  In made:  jury . the 
+Current in test: guardians and administrators  In made:  jury . the 
+Current in test: . wards protected  In made:  jury . the 
+149 158
