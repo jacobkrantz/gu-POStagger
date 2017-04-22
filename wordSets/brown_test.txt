@@ -2241,7 +2241,7 @@ trouble NN
 '' ''
 . .
 austin NP-HL
-, ,-HL
+, ,
 texas NP-HL
 -- --
 committee NN
@@ -2661,7 +2661,7 @@ last AP
 monday NR
 . .
 austin NP-HL
-, ,-HL
+, ,
 texas NP-HL
 -- --
 senators NNS
@@ -3402,7 +3402,7 @@ supreme JJ-TL
 court NN-TL
 . .
 austin NP-HL
-, ,-HL
+, ,
 texas NP-HL
 -- --
 state NN
@@ -3575,7 +3575,7 @@ was BEDZ
 absent JJ
 . .
 austin NP-HL
-, ,-HL
+, ,
 texas NP-HL
 -- --
 paradise NN-TL

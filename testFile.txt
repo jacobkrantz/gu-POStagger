@@ -1,537 +1,8097 @@
-Current in test: the fulton county  In made:  which had over-all 
-Current in test: 's recent primary  In made:  which had over-all 
-Current in test: recent primary election  In made:  which had over-all 
-Current in test: '' that any  In made:  which had over-all 
-Current in test: that any irregularities  In made:  which had over-all 
-Current in test: . the jury  In made:  which had over-all 
-Current in test: the jury further  In made:  which had over-all 
-Current in test: , which had  In made:  which had over-all 
-Correct--- which WDT
-which WDT
+1 the AT
 
-Correct--- had HVD
-had HVD
+2 jury NN
 
-Correct--- over-all JJ
-over-all JJ
+3 said VBD
 
-Correct--- charge NN
-charge NN
+4 ,
+5 the AT
 
-Correct--- of IN
-of IN
+6 city NN
 
-Correct--- the AT
-the AT
+7 purchasing VBG
 
-Correct--- election NN
-election NN
+8 department NN
 
-Correct--- , ,
-, ,
+9 ,
+10 the AT
 
-Correct--- `` ``
-`` ``
+11 jury NN
 
-Correct--- deserves VBZ
-deserves VBZ
+12 said VBD
 
-Correct--- the AT
-the AT
+13 ,
+14 `` ``
 
-Correct--- praise NN
-praise NN
+15 this DT
 
-Correct--- and CC
-and CC
+16 is BEZ
 
-Correct--- thanks NNS
-thanks NNS
+17 one CD
 
-Correct--- of IN
-of IN
+18 of IN
 
-Correct--- the AT
-the AT
+19 the AT
 
-Wrong--- city NN-TL
-city NN
+20 major JJ
 
-Wrong--- of IN-TL
-of IN
+21 items NNS
 
-Wrong--- atlanta NP-TL
-atlanta NP
+22 in IN
 
-Correct--- '' ''
-'' ''
+23 the AT
 
-Correct--- for IN
-for IN
+24 fulton NP-TL
 
-Correct--- the AT
-the AT
+25 county NN-TL
 
-Correct--- manner NN
-manner NN
+26 general JJ
 
-Correct--- in IN
-in IN
+27 assistance NN
 
-Correct--- which WDT
-which WDT
+28 program NN
 
-Correct--- the AT
-the AT
+29 '' ''
 
-Correct--- election NN
-election NN
+30 ,
+31 the AT
 
-Correct--- was BEDZ
-was BEDZ
+32 jury NN
 
-Correct--- conducted VBN
-conducted VBN
+33 said VBD
 
-Current in test: . `` the  In made:  . `` only 
-Current in test: `` the september-october  In made:  . `` only 
-Current in test: '' in the  In made:  . `` only 
-Current in test: in the hard-fought  In made:  . `` only 
-Current in test: . . ``  In made:  . `` only 
-Correct--- . .
-. .
+34 ,
+35 `` NN
 
-Correct--- `` ``
-`` ``
+36 we NN
 
-Correct--- only RB
-only RB
+37 feel NN
 
-Correct--- a AT
-a AT
+38 that NN
 
-Correct--- relative JJ
-relative JJ
+39 in NN
 
-Correct--- handful NN
-handful NN
+40 the NN
 
-Correct--- of IN
-of IN
+41 future NN
 
-Correct--- such JJ
-such JJ
+42 fulton NN
 
-Correct--- reports NNS
-reports NNS
+43 county NN
 
-Correct--- was BEDZ
-was BEDZ
+44 should NN
 
-Correct--- received VBN
-received VBN
+45 receive NN
 
-Correct--- '' ''
-'' ''
+46 some NN
 
-Correct--- , ,
-, ,
+47 portion NN
 
-Correct--- the AT
-the AT
+48 of NN
 
-Correct--- jury NN
-jury NN
+49 these NN
 
-Correct--- said VBD
-said VBD
+50 available NN
 
-Correct--- , ,
-, ,
+51 funds NN
 
-Correct--- `` ``
-`` ``
+52 '' NN
 
-Correct--- considering IN
-considering IN
+53 , NN
 
-Correct--- the AT
-the AT
+54 the AT
 
-Correct--- widespread JJ
-widespread JJ
+55 jury NN
 
-Correct--- interest NN
-interest NN
+56 said VBD
 
-Correct--- in IN
-in IN
+57 .
+58 but CC
 
-Correct--- the AT
-the AT
+59 it PPS
 
-Correct--- election NN
-election NN
+60 added VBD
 
-Current in test: , the number  In made:  , the jury 
-Current in test: the number of  In made:  , the jury 
-Current in test: '' , the  In made:  , the jury 
-Correct--- , ,
-, ,
+61 that CS
 
-Correct--- the AT
-the AT
+62 `` ``
 
-Correct--- jury NN
-jury NN
+63 there EX
 
-Correct--- said VBD
-said VBD
+64 should MD
 
-Correct--- it PPS
-it PPS
+65 be BE
 
-Correct--- did DOD
-did DOD
+66 periodic JJ
 
-Correct--- find VB
-find VB
+67 surveillance NN
 
-Correct--- that CS
-that CS
+68 of IN
 
-Correct--- many AP
-many AP
+69 the AT
 
-Correct--- of IN
-of IN
+70 pricing VBG
 
-Correct--- georgia's NP$
-georgia's NP$
+71 practices NNS
 
-Correct--- registration NN
-registration NN
+72 of IN
 
-Correct--- and CC
-and CC
+73 the AT
 
-Correct--- election NN
-election NN
+74 concessionaires NNS
 
-Correct--- laws NNS
-laws NNS
+75 for IN
 
-Correct--- `` ``
-`` ``
+76 the AT
 
-Correct--- are BER
-are BER
+77 purpose NN
 
-Correct--- outmoded JJ
-outmoded JJ
+78 of IN
 
-Correct--- or CC
-or CC
+79 keeping VBG
 
-Correct--- inadequate JJ
-inadequate JJ
+80 the AT
 
-Correct--- and CC
-and CC
+81 prices NNS
 
-Correct--- often RB
-often RB
+82 reasonable JJ
 
-Correct--- ambiguous JJ
-ambiguous JJ
+83 '' ''
 
-Current in test: '' . it  In made:  '' . merger 
-Current in test: . it recommended  In made:  '' . merger 
-Current in test: it recommended that  In made:  '' . merger 
-Current in test: '' . the  In made:  '' . merger 
-Current in test: . the grand  In made:  '' . merger 
-Current in test: the grand jury  In made:  '' . merger 
-Current in test: , among them  In made:  '' . merger 
-Current in test: among them the  In made:  '' . merger 
-Correct--- '' ''
-'' ''
+84 .
+85 ask VB-HL
 
-Correct--- . .
-. .
+86 jail NN-HL
 
-Wrong--- merger NN-HL
-merger NN
+87 deputies NNS-HL
 
-Wrong--- proposed VBN-HL
-proposed VBN
+88 on IN
 
-Wrong--- however WRB
-however RB
+89 other AP
 
-Correct--- , ,
-, ,
+90 matters NNS
 
-Correct--- the AT
-the AT
+91 ,
+92 the AT
 
-Correct--- jury NN
-jury NN
+93 jury NN
 
-Correct--- said VBD
-said VBD
+94 recommended VBD
 
-Correct--- it PPS
-it PPS
+95 that CS
 
-Correct--- believes VBZ
-believes VBZ
+96 : :
 
-Correct--- `` ``
-`` ``
+97 ( (
 
-Correct--- these DTS
-these DTS
+98 1 CD
 
-Correct--- two CD
-two CD
+99 ) )
 
-Correct--- offices NNS
-offices NNS
+100 four CD
 
-Correct--- should MD
-should MD
+101 additional JJ
 
-Correct--- be BE
-be BE
+102 deputies NNS
 
-Correct--- combined VBN
-combined VBN
+103 be BE
 
-Correct--- to TO
-to TO
+104 employed VBN
 
-Correct--- achieve VB
-achieve VB
+105 at IN
 
-Correct--- greater JJR
-greater JJR
+106 the AT
 
-Correct--- efficiency NN
-efficiency NN
+107 fulton NP-TL
 
-Correct--- and CC
-and CC
+108 county NN-TL
 
-Correct--- reduce VB
-reduce VB
+109 jail NN-TL
 
-Correct--- the AT
-the AT
+110 and CC
 
-Correct--- cost NN
-cost NN
+111 `` ``
 
-Correct--- of IN
-of IN
+112 a AT
 
-Correct--- administration NN
-administration NN
+113 doctor NN
 
-Correct--- '' ''
-'' ''
+114 ,
+115 ( (
 
-Correct--- . .
-. .
+116 2 CD
 
-Correct--- the AT
-the AT
+117 ) )
 
-Wrong--- city NN-TL
-city NN
+118 fulton NP
 
-Wrong--- purchasing VBG-TL
-purchasing NN
+119 legislators NNS
 
-Wrong--- department NN-TL
-department NN
+120 `` ``
 
-Correct--- , ,
-, ,
+121 work NN
 
-Correct--- the AT
-the AT
+122 with IN
 
-Correct--- jury NN
-jury NN
+123 city NN
 
-Correct--- said VBD
-said VBD
+124 officials NNS
 
-Correct--- , ,
-, ,
+125 to TO
 
-Correct--- `` ``
-`` ``
+126 pass VB
 
-Correct--- is BEZ
-is BEZ
+127 enabling VBG
 
-Correct--- lacking VBG
-lacking VBG
+128 legislation NN
 
-Correct--- in IN
-in IN
+129 that WPS
 
-Correct--- experienced VBN
-experienced VBN
+130 will MD
 
-Correct--- clerical JJ
-clerical JJ
+131 permit VB
 
-Correct--- personnel NNS
-personnel NNS
+132 the AT
 
-Correct--- as CS
-as CS
+133 establishment NN
 
-Correct--- a AT
-a AT
+134 of IN
 
-Correct--- result NN
-result NN
+135 a AT
 
-Correct--- of IN
-of IN
+136 fair JJ
 
-Correct--- city NN
-city NN
+137 and CC
 
-Correct--- personnel NNS
-personnel NNS
+138 equitable JJ
 
-Correct--- policies NNS
-policies NNS
+139 '' ''
 
-Correct--- '' ''
-'' ''
+140 pension NN
 
-Correct--- . .
-. .
+141 plan NN
 
-Correct--- it PPS
-it PPS
+142 for IN
 
-Correct--- urged VBD
-urged VBD
+143 city NN
 
-Correct--- that CS
-that CS
+144 employes NNS
 
-Correct--- the AT
-the AT
+145 .
+146 the AT
 
-Correct--- city NN
-city NN
+147 jury NN
 
-Correct--- `` ``
-`` ``
+148 praised VBD
 
-Correct--- take VB
-take VB
+149 the AT
 
-Correct--- steps NNS
-steps NNS
+150 administration NN
 
-Correct--- to TO
-to TO
+151 and CC
 
-Correct--- remedy VB
-remedy VB
+152 operation NN
 
-Correct--- '' ''
-'' ''
+153 of IN
 
-Correct--- this DT
-this DT
+154 the AT
 
-Correct--- problem NN
-problem NN
+155 atlanta NP
 
-Correct--- . .
-. .
+156 police NN
 
-Correct--- implementation NN
-implementation NN
+157 department NN
 
-Correct--- of IN
-of IN
+158 ,
+159 the AT
 
-Correct--- georgia's NP$
-georgia's NP$
+160 fulton NP-TL
 
-Correct--- automobile NN
-automobile NN
+161 tax NN-TL
 
-Correct--- title NN
-title NN
+162 commissioner's NN$-TL
 
-Correct--- law NN
-law NN
+163 office NN
 
-Correct--- was BEDZ
-was BEDZ
+164 ,
+165 the AT
 
-Correct--- also RB
-also RB
+166 bellwood NP
 
-Correct--- recommended VBN
-recommended VBN
+167 and CC
 
-Correct--- by IN
-by IN
+168 alpharetta NP
 
-Correct--- the AT
-the AT
+169 prison NN
 
-Correct--- outgoing JJ
-outgoing JJ
+170 farms NNS
 
-Current in test: jury . it  In made:  jury . the 
-Current in test: . it urged  In made:  jury . the 
-Current in test: it urged that  In made:  jury . the 
-Current in test: '' . the  In made:  jury . the 
-Current in test: . the grand  In made:  jury . the 
-Current in test: the grand jury  In made:  jury . the 
-Current in test: 's handling of  In made:  jury . the 
-Current in test: handling of federal  In made:  jury . the 
-Current in test: . `` this  In made:  jury . the 
-Current in test: `` this is  In made:  jury . the 
-Current in test: '' , the  In made:  jury . the 
-Current in test: , the jury  In made:  jury . the 
-Current in test: the jury said  In made:  jury . the 
-Current in test: , but the  In made:  jury . the 
-Current in test: but the state  In made:  jury . the 
-Current in test: , which receives  In made:  jury . the 
-Current in test: which receives none  In made:  jury . the 
-Current in test: . the jurors  In made:  jury . the 
-Current in test: the jurors said  In made:  jury . the 
-Current in test: '' . nevertheless  In made:  jury . the 
-Current in test: . nevertheless ,  In made:  jury . the 
-Current in test: nevertheless , ``  In made:  jury . the 
-Current in test: , `` we  In made:  jury . the 
-Current in test: `` we feel  In made:  jury . the 
-Current in test: '' , the  In made:  jury . the 
-Current in test: , the jurors  In made:  jury . the 
-Current in test: the jurors said  In made:  jury . the 
-Current in test: . `` failure  In made:  jury . the 
-Current in test: `` failure to  In made:  jury . the 
-Current in test: '' on fulton  In made:  jury . the 
-Current in test: on fulton taxpayers  In made:  jury . the 
-Current in test: . the jury  In made:  jury . the 
-Current in test: the jury also  In made:  jury . the 
-Current in test: 's court which  In made:  jury . the 
-Current in test: court which has  In made:  jury . the 
-Current in test: , guardians and  In made:  jury . the 
-Current in test: guardians and administrators  In made:  jury . the 
-Current in test: . wards protected  In made:  jury . the 
-149 158
+171 ,
+172 grady NP-TL
+
+173 hospital NN-TL
+
+174 and CC
+
+175 the AT
+
+176 fulton NP-TL
+
+177 health NN-TL
+
+178 department NN-TL
+
+179 .
+180 mayor NN-TL
+
+181 william NP
+
+182 b. NP
+
+183 hartsfield NP
+
+184 filed VBD
+
+185 suit NN
+
+186 for IN
+
+187 divorce NN
+
+188 from IN
+
+189 his PP$
+
+190 wife NN
+
+191 ,
+192 pearl NP
+
+193 williams NP
+
+194 hartsfield NP
+
+195 ,
+196 in IN
+
+197 fulton NP-TL
+
+198 superior JJ-TL
+
+199 court NN-TL
+
+200 friday NR
+
+201 .
+202 his PP$
+
+203 petition NN
+
+204 charged VBD
+
+205 mental JJ
+
+206 cruelty NN
+
+207 .
+208 the AT
+
+209 couple NN
+
+210 was BEDZ
+
+211 married VBN
+
+212 aug. NP
+
+213 2 CD
+
+214 ,
+215 1913 CD
+
+216 .
+217 they PPSS
+
+218 have HV
+
+219 a AT
+
+220 son NN
+
+221 ,
+222 william NP
+
+223 berry NP
+
+224 jr. NP
+
+225 ,
+226 and CC
+
+227 a AT
+
+228 daughter NN
+
+229 ,
+230 mrs. NP
+
+231 j. NP
+
+232 m. NP
+
+233 cheshire NP
+
+234 of IN
+
+235 griffin NP
+
+236 .
+237 attorneys NNS
+
+238 for IN
+
+239 the AT
+
+240 mayor NN
+
+241 said VBD
+
+242 that CS
+
+243 an AT
+
+244 amicable JJ
+
+245 property NN
+
+246 settlement NN
+
+247 has HVZ
+
+248 been BEN
+
+249 agreed VBN
+
+250 upon RB
+
+251 .
+252 the AT
+
+253 petition NN
+
+254 listed VBD
+
+255 the AT
+
+256 mayor's NN$
+
+257 occupation NN
+
+258 as CS
+
+259 `` ``
+
+260 attorney NN
+
+261 '' ''
+
+262 and CC
+
+263 his PP$
+
+264 age NN
+
+265 as IN
+
+266 71 CD
+
+267 .
+268 it PPS
+
+269 listed VBD
+
+270 his PP$
+
+271 wife's NN$
+
+272 age NN
+
+273 as IN
+
+274 74 CD
+
+275 and CC
+
+276 place NN
+
+277 of IN
+
+278 birth NN
+
+279 as CS
+
+280 opelika NP
+
+281 ,
+282 ala. NP
+
+283 .
+284 the AT
+
+285 hartsfield NP
+
+286 home NN
+
+287 is BEZ
+
+288 at IN
+
+289 637 CD
+
+290 e. NP
+
+291 pelham NP
+
+292 rd. NN-TL
+
+293 aj NN
+
+294 .
+295 henry NP
+
+296 l. NP
+
+297 bowden NP
+
+298 was BEDZ
+
+299 listed VBN
+
+300 on IN
+
+301 the AT
+
+302 petition NN
+
+303 as CS
+
+304 the AT
+
+305 mayor's NN$
+
+306 attorney NN
+
+307 .
+308 hartsfield NP
+
+309 has HVZ
+
+310 been BEN
+
+311 mayor NN
+
+312 of IN
+
+313 atlanta NP
+
+314 ,
+315 with IN
+
+316 exception NN
+
+317 of IN
+
+318 one CD
+
+319 brief JJ
+
+320 interlude NN
+
+321 ,
+322 since IN
+
+323 1937 CD
+
+324 .
+325 his PP$
+
+326 political JJ
+
+327 career NN
+
+328 goes VBZ
+
+329 back RB
+
+330 to IN
+
+331 his PP$
+
+332 election NN
+
+333 to IN
+
+334 city NN
+
+335 council NN
+
+336 in IN
+
+337 1923 CD
+
+338 .
+339 the AT
+
+340 mayor's NN$
+
+341 present JJ
+
+342 term NN
+
+343 of IN
+
+344 office NN
+
+345 expires VBZ
+
+346 jan. NP
+
+347 1 CD
+
+348 .
+349 he PPS
+
+350 will MD
+
+351 be BE
+
+352 succeeded VBN
+
+353 by IN
+
+354 ivan NP
+
+355 allen NP
+
+356 jr. NP
+
+357 ,
+358 georgia NP
+
+359 republicans NPS
+
+360 are BER
+
+361 getting VBG
+
+362 strong JJ
+
+363 encouragement NN
+
+364 to TO
+
+365 enter VB
+
+366 a AT
+
+367 candidate NN
+
+368 in IN
+
+369 the AT
+
+370 1962 CD
+
+371 governor's NN$
+
+372 race NN
+
+373 ,
+374 a AT
+
+375 top JJS
+
+376 official NN
+
+377 said VBD
+
+378 wednesday NR
+
+379 .
+380 robert NP
+
+381 snodgrass NP
+
+382 ,
+383 state NN
+
+384 gop NN
+
+385 chairman NN
+
+386 ,
+387 in IN
+
+388 the AT
+
+389 blue JJ-TL
+
+390 ridge NN-TL
+
+391 meeting NN
+
+392 ,
+393 the AT
+
+394 audience NN
+
+395 was BEDZ
+
+396 warned VBN
+
+397 that CS
+
+398 entering VBG
+
+399 a AT
+
+400 candidate NN
+
+401 for IN
+
+402 governor NN
+
+403 would MD
+
+404 force VB
+
+405 it PPO
+
+406 to TO
+
+407 take VB
+
+408 petitions NNS
+
+409 out IN
+
+410 into IN
+
+411 voting VBG
+
+412 precincts NNS
+
+413 to TO
+
+414 obtain VB
+
+415 the AT
+
+416 signatures NNS
+
+417 of IN
+
+418 registered VBN
+
+419 voters NNS
+
+420 .
+421 despite IN
+
+422 the AT
+
+423 warning NN
+
+424 ,
+425 there EX
+
+426 was BEDZ
+
+427 a AT
+
+428 unanimous JJ
+
+429 vote NN
+
+430 to TO
+
+431 enter VB
+
+432 a AT
+
+433 candidate NN
+
+434 ,
+435 according IN
+
+436 to IN
+
+437 republicans NPS
+
+438 who WPS
+
+439 attended VBD
+
+440 .
+441 when WRB
+
+442 the AT
+
+443 crowd NN
+
+444 was BEDZ
+
+445 asked VBN
+
+446 whether CS
+
+447 it PPS
+
+448 wanted VBD
+
+449 to TO
+
+450 wait VB
+
+451 one CD
+
+452 more AP
+
+453 term NN
+
+454 to TO
+
+455 make VB
+
+456 the AT
+
+457 race NN
+
+458 ,
+459 the AT
+
+460 largest JJT
+
+461 hurdle NN
+
+462 the AT
+
+463 republicans NPS
+
+464 would MD
+
+465 have HV
+
+466 to TO
+
+467 face VB
+
+468 is BEZ
+
+469 a AT
+
+470 state NN
+
+471 law NN
+
+472 which WDT
+
+473 says VBZ
+
+474 that CS
+
+475 before IN
+
+476 making VBG
+
+477 a AT
+
+478 first OD
+
+479 race NN
+
+480 ,
+481 or CC
+
+482 2 CD
+
+483 the AT
+
+484 republicans NPS
+
+485 must MD
+
+486 hold VB
+
+487 a AT
+
+488 primary NN
+
+489 under IN
+
+490 the AT
+
+491 county NN
+
+492 unit NN
+
+493 system NN
+
+494 -- --
+
+495 a AT
+
+496 system NN
+
+497 which WDT
+
+498 the AT
+
+499 party NN
+
+500 opposes VBZ
+
+501 in IN
+
+502 its PP$
+
+503 platform NN
+
+504 .
+505 sam NP
+
+506 caldwell NP
+
+507 ,
+508 state NN-TL
+
+509 highway NN-TL
+
+510 department NN-TL
+
+511 public NN
+
+512 relations NNS
+
+513 director NN
+
+514 ,
+515 resigned VBD
+
+516 tuesday NR
+
+517 to IN
+
+518 work NN
+
+519 for IN
+
+520 lt. NN-TL
+
+521 gov. NN-TL
+
+522 garland NP
+
+523 byrd's NP$
+
+524 campaign NN
+
+525 .
+526 caldwell's NP$
+
+527 resignation NN
+
+528 had HVD
+
+529 been BEN
+
+530 expected VBN
+
+531 for IN
+
+532 some DTI
+
+533 time NN
+
+534 .
+535 he PPS
+
+536 will MD
+
+537 be BE
+
+538 succeeded VBN
+
+539 by IN
+
+540 rob NP
+
+541 ledford NP
+
+542 of IN
+
+543 gainesville NP
+
+544 ,
+545 who WPS
+
+546 has HVZ
+
+547 been BEN
+
+548 an AT
+
+549 assistant NN
+
+550 more AP
+
+551 than IN
+
+552 three CD
+
+553 years NNS
+
+554 .
+555 when WRB
+
+556 the AT
+
+557 gubernatorial JJ
+
+558 campaign NN
+
+559 starts VBZ
+
+560 ,
+561 caldwell NP
+
+562 is BEZ
+
+563 expected VBN
+
+564 to TO
+
+565 become VB
+
+566 a AT
+
+567 campaign NN
+
+568 coordinator NN
+
+569 for IN
+
+570 byrd NP
+
+571 .
+572 the AT
+
+573 georgia NP-TL
+
+574 legislature NN-TL
+
+575 will MD
+
+576 wind VB
+
+577 up IN
+
+578 its PP$
+
+579 1961 CD
+
+580 session NN
+
+581 monday NR
+
+582 and CC
+
+583 head NN
+
+584 for IN
+
+585 home NN
+
+586 -- --
+
+587 where WRB
+
+588 some DTI
+
+589 of IN
+
+590 the AT
+
+591 highway NN
+
+592 bond NN
+
+593 money NN
+
+594 it PPS
+
+595 approved VBD
+
+596 will MD
+
+597 follow VB
+
+598 shortly RB
+
+599 .
+600 before IN
+
+601 adjournment NN
+
+602 monday NR
+
+603 afternoon NN
+
+604 ,
+605 gov. NN-TL
+
+606 vandiver NP
+
+607 is BEZ
+
+608 expected VBN
+
+609 to TO
+
+610 make VB
+
+611 the AT
+
+612 traditional JJ
+
+613 visit NN
+
+614 to IN
+
+615 both ABX
+
+616 chambers NNS
+
+617 as CS
+
+618 they PPSS
+
+619 work VB
+
+620 toward IN
+
+621 adjournment NN
+
+622 .
+623 vandiver NP
+
+624 likely RB
+
+625 will MD
+
+626 mention VB
+
+627 the AT
+
+628 $100 NNS
+
+629 million CD
+
+630 highway NN
+
+631 bond NN
+
+632 issue NN
+
+633 approved VBN
+
+634 earlier RBR
+
+635 in IN
+
+636 the AT
+
+637 session NN
+
+638 as IN
+
+639 his PP$
+
+640 first OD
+
+641 priority NN
+
+642 item NN
+
+643 .
+644 construction NN
+
+645 bonds NNS
+
+646 meanwhile RB
+
+647 ,
+648 the AT
+
+649 bond NN
+
+650 issue NN
+
+651 will MD
+
+652 go VB
+
+653 to IN
+
+654 the AT
+
+655 state NN
+
+656 courts NNS
+
+657 for IN
+
+658 a AT
+
+659 friendly JJ
+
+660 test NN
+
+661 suit NN
+
+662 to TO
+
+663 test VB
+
+664 the AT
+
+665 validity NN
+
+666 of IN
+
+667 the AT
+
+668 act NN
+
+669 ,
+670 and CC
+
+671 then RB
+
+672 the AT
+
+673 sales NNS
+
+674 will MD
+
+675 begin VB
+
+676 and CC
+
+677 contracts NNS
+
+678 let VBN
+
+679 for IN
+
+680 repair NN
+
+681 work NN
+
+682 on IN
+
+683 some DTI
+
+684 of IN
+
+685 georgia's NP$
+
+686 most QL
+
+687 heavily RB
+
+688 traveled VBN
+
+689 highways NNS
+
+690 .
+691 a AT
+
+692 highway NN
+
+693 department NN
+
+694 source NN
+
+695 said VBD
+
+696 there EX
+
+697 also RB
+
+698 is BEZ
+
+699 a AT
+
+700 plan NN
+
+701 there RB
+
+702 to TO
+
+703 issue VB
+
+704 some DTI
+
+705 $3 NNS
+
+706 million CD
+
+707 to IN
+
+708 $4 NNS
+
+709 million CD
+
+710 worth NN
+
+711 of IN
+
+712 rural JJ
+
+713 roads NNS
+
+714 authority NN
+
+715 bonds NNS
+
+716 for IN
+
+717 rural JJ
+
+718 road NN
+
+719 construction NN
+
+720 work NN
+
+721 .
+722 vandiver NP
+
+723 opened VBD
+
+724 his PP$
+
+725 race NN
+
+726 for IN
+
+727 governor NN
+
+728 in IN
+
+729 1958 CD
+
+730 with IN
+
+731 a AT
+
+732 battle NN
+
+733 in IN
+
+734 the AT
+
+735 legislature NN
+
+736 against IN
+
+737 the AT
+
+738 issuance NN
+
+739 of IN
+
+740 $50 NNS
+
+741 million CD
+
+742 worth NN
+
+743 of IN
+
+744 additional JJ
+
+745 rural JJ
+
+746 roads NNS
+
+747 bonds NNS
+
+748 proposed VBN
+
+749 by IN
+
+750 then RB
+
+751 gov. NN-TL
+
+752 marvin NP
+
+753 griffin NP
+
+754 .
+755 the AT
+
+756 highway NN
+
+757 department NN
+
+758 source NN
+
+759 told VBD
+
+760 the AT
+
+761 constitution NN-TL
+
+762 ,
+763 however WRB
+
+764 ,
+765 schley NP
+
+766 county NN-TL
+
+767 rep. NN-TL
+
+768 b. NP
+
+769 d. NP
+
+770 pelham NP
+
+771 will MD
+
+772 offer VB
+
+773 a AT
+
+774 resolution NN
+
+775 monday NR
+
+776 in IN
+
+777 the AT
+
+778 house NN
+
+779 to TO
+
+780 rescind VB
+
+781 the AT
+
+782 body's NN$
+
+783 action NN
+
+784 of IN
+
+785 friday NR
+
+786 in IN
+
+787 voting VBG
+
+788 itself PPL
+
+789 a AT
+
+790 $10 NNS
+
+791 per IN
+
+792 day NN
+
+793 increase NN
+
+794 in IN
+
+795 expense NN
+
+796 allowances NNS
+
+797 .
+798 pelham NP
+
+799 said VBD
+
+800 his PP$
+
+801 resolution NN
+
+802 would MD
+
+803 seek VB
+
+804 to TO
+
+805 set VB
+
+806 aside RB
+
+807 the AT
+
+808 privilege NN
+
+809 resolution NN
+
+810 which WDT
+
+811 the AT
+
+812 house NN-TL
+
+813 voted VBD
+
+814 through IN
+
+815 87-31 CD
+
+816 .
+817 a AT
+
+818 similar JJ
+
+819 resolution NN
+
+820 passed VBD
+
+821 in IN
+
+822 the AT
+
+823 senate NN
+
+824 by IN
+
+825 a AT
+
+826 vote NN
+
+827 of IN
+
+828 29-5 CD
+
+829 .
+830 a AT
+
+831 veteran JJ
+
+832 jackson NP-TL
+
+833 county NN-TL
+
+834 legislator NN
+
+835 will MD
+
+836 ask VB
+
+837 the AT
+
+838 georgia NP-TL
+
+839 house NN-TL
+
+840 monday NR
+
+841 to TO
+
+842 back VB
+
+843 federal JJ
+
+844 aid NN
+
+845 to IN
+
+846 education NN
+
+847 ,
+848 something PN
+
+849 it PPS
+
+850 has HVZ
+
+851 consistently RB
+
+852 opposed VBN
+
+853 in IN
+
+854 the AT
+
+855 past NN
+
+856 .
+857 rep. NN-TL
+
+858 mac NP
+
+859 barber NP
+
+860 of IN
+
+861 commerce NN-TL
+
+862 is BEZ
+
+863 asking VBG
+
+864 the AT
+
+865 house NN
+
+866 in IN
+
+867 a AT
+
+868 privilege NN
+
+869 resolution NN
+
+870 to TO
+
+871 `` ``
+
+872 endorse VB
+
+873 increased VBN
+
+874 federal JJ
+
+875 support NN
+
+876 for IN
+
+877 public JJ
+
+878 education NN
+
+879 ,
+880 provided VBN
+
+881 that CS
+
+882 such JJ
+
+883 funds NNS
+
+884 be BE
+
+885 received VBN
+
+886 and CC
+
+887 expended VBN
+
+888 '' ''
+
+889 as CS
+
+890 state NN
+
+891 funds NNS
+
+892 .
+893 barber NP
+
+894 ,
+895 who WPS
+
+896 is BEZ
+
+897 in IN
+
+898 his PP$
+
+899 13th OD
+
+900 year NN
+
+901 as CS
+
+902 a AT
+
+903 legislator NN
+
+904 ,
+905 said VBD
+
+906 there EX
+
+907 `` ``
+
+908 are BER
+
+909 some DTI
+
+910 members NNS
+
+911 of IN
+
+912 our PP$
+
+913 congressional JJ
+
+914 delegation NN
+
+915 in IN
+
+916 washington NP
+
+917 who WPS
+
+918 would MD
+
+919 like VB
+
+920 to TO
+
+921 see VB
+
+922 it PPO
+
+923 ( (
+
+924 the AT
+
+925 resolution NN
+
+926 ) )
+
+927 passed VBD
+
+928 '' ''
+
+929 .
+930 but CC
+
+931 he PPS
+
+932 added VBD
+
+933 that CS
+
+934 one CD
+
+935 of IN
+
+936 georgia's NP$
+
+937 congressmen NNS
+
+938 specifically RB
+
+939 asked VBD
+
+940 him PPO
+
+941 to TO
+
+942 offer VB
+
+943 the AT
+
+944 resolution NN
+
+945 .
+946 the AT
+
+947 resolution NN
+
+948 ,
+949 which WDT
+
+950 barber NP
+
+951 tossed VBD
+
+952 into IN
+
+953 the AT
+
+954 house NN
+
+955 hopper NN
+
+956 friday NR
+
+957 ,
+958 will MD
+
+959 be BE
+
+960 formally RB
+
+961 read VBN
+
+962 monday NR
+
+963 .
+964 it PPS
+
+965 says VBZ
+
+966 that CS
+
+967 `` ``
+
+968 in IN
+
+969 the AT
+
+970 event NN
+
+971 congress NP
+
+972 does DOZ
+
+973 provide VB
+
+974 this DT
+
+975 increase NN
+
+976 in IN
+
+977 federal JJ
+
+978 funds NNS
+
+979 '' ''
+
+980 ,
+981 the AT
+
+982 state NN
+
+983 board NN
+
+984 of IN
+
+985 education NN
+
+986 should MD
+
+987 be BE
+
+988 directed VBN
+
+989 to TO
+
+990 `` ``
+
+991 give VB
+
+992 priority NN
+
+993 '' ''
+
+994 to IN
+
+995 teacher NN
+
+996 pay NN
+
+997 raises NNS
+
+998 .
+999 colquitt NP-HL
+
+1000 -- --
+
+1001 after IN
+
+1002 a AT
+
+1003 long JJ
+
+1004 ,
+1005 hot JJ
+
+1006 controversy NN
+
+1007 ,
+1008 elected VBN
+
+1009 ,
+1010 as CS
+
+1011 a AT
+
+1012 policeman NN
+
+1013 put VBD
+
+1014 it PPO
+
+1015 ,
+1016 in IN
+
+1017 the AT
+
+1018 `` ``
+
+1019 coolest JJT
+
+1020 election NN
+
+1021 i PPSS
+
+1022 ever RB
+
+1023 saw VBD
+
+1024 in IN
+
+1025 this DT
+
+1026 county NN
+
+1027 '' ''
+
+1028 .
+1029 a AT
+
+1030 veteran JJ
+
+1031 agriculture NN
+
+1032 teacher NN
+
+1033 ,
+1034 who WPS
+
+1035 defeated VBD
+
+1036 felix NP
+
+1037 bush NP
+
+1038 ,
+1039 a AT
+
+1040 school NN
+
+1041 principal NN
+
+1042 and CC
+
+1043 chairman NN
+
+1044 of IN
+
+1045 the AT
+
+1046 miller NP-TL
+
+1047 county NN-TL
+
+1048 democratic JJ-TL
+
+1049 executive NN-TL
+
+1050 committee NN
+
+1051 .
+1052 davis NP
+
+1053 received VBD
+
+1054 1,119 CD
+
+1055 votes NNS
+
+1056 in IN
+
+1057 saturday's NR$
+
+1058 election NN
+
+1059 ,
+1060 and CC
+
+1061 bush NP
+
+1062 got VBD
+
+1063 402 CD
+
+1064 .
+1065 ordinary NN-TL
+
+1066 carey NP
+
+1067 williams NP
+
+1068 ,
+1069 armed VBN
+
+1070 with IN
+
+1071 a AT
+
+1072 pistol NN
+
+1073 ,
+1074 stood VBD
+
+1075 by IN
+
+1076 at IN
+
+1077 the AT
+
+1078 polls NNS
+
+1079 to TO
+
+1080 insure VB
+
+1081 order NN
+
+1082 .
+1083 `` ``
+
+1084 this DT
+
+1085 was BEDZ
+
+1086 the AT
+
+1087 coolest JJT
+
+1088 ,
+1089 calmest JJT
+
+1090 election NN
+
+1091 i PPSS
+
+1092 ever RB
+
+1093 saw VBD
+
+1094 '' ''
+
+1095 ,
+1096 colquitt NP-TL
+
+1097 policeman NN-TL
+
+1098 tom NP
+
+1099 williams NP
+
+1100 said VBD
+
+1101 .
+1102 `` ``
+
+1103 being BEG
+
+1104 at IN
+
+1105 the AT
+
+1106 polls NNS
+
+1107 was BEDZ
+
+1108 just RB
+
+1109 like CS
+
+1110 being BEG
+
+1111 at IN
+
+1112 church NN
+
+1113 .
+1114 i PPSS
+
+1115 didn't DOD*
+
+1116 smell VB
+
+1117 a AT
+
+1118 drop NN
+
+1119 of IN
+
+1120 liquor NN
+
+1121 ,
+1122 and CC
+
+1123 we PPSS
+
+1124 didn't DOD*
+
+1125 have HV
+
+1126 a AT
+
+1127 bit NN
+
+1128 of IN
+
+1129 trouble NN
+
+1130 '' ''
+
+1131 .
+1132 however WRB
+
+1133 .
+1134 it PPS
+
+1135 was BEDZ
+
+1136 marked VBN
+
+1137 by IN
+
+1138 controversy NN
+
+1139 ,
+1140 anonymous JJ
+
+1141 midnight NN
+
+1142 phone NN
+
+1143 calls NNS
+
+1144 and CC
+
+1145 veiled VBN
+
+1146 threats NNS
+
+1147 of IN
+
+1148 violence NN
+
+1149 .
+1150 the AT
+
+1151 former AP
+
+1152 county NN
+
+1153 school NN
+
+1154 superintendent NN
+
+1155 ,
+1156 george NP
+
+1157 p. NP
+
+1158 callan NP
+
+1159 ,
+1160 shot VBD
+
+1161 himself PPL
+
+1162 to IN
+
+1163 death NN
+
+1164 march NP
+
+1165 18 CD
+
+1166 ,
+1167 four CD
+
+1168 days NNS
+
+1169 after CS
+
+1170 he PPS
+
+1171 resigned VBD
+
+1172 his PP$
+
+1173 post NN
+
+1174 in IN
+
+1175 a AT
+
+1176 dispute NN
+
+1177 with IN
+
+1178 the AT
+
+1179 county NN
+
+1180 school NN
+
+1181 board NN
+
+1182 .
+1183 during IN
+
+1184 the AT
+
+1185 election NN
+
+1186 campaign NN
+
+1187 ,
+1188 both ABX
+
+1189 candidates NNS
+
+1190 ,
+1191 davis NP
+
+1192 and CC
+
+1193 bush NP
+
+1194 ,
+1195 reportedly RB
+
+1196 received VBD
+
+1197 anonymous JJ
+
+1198 telephone NN
+
+1199 calls NNS
+
+1200 .
+1201 ordinary NN-TL
+
+1202 williams NP
+
+1203 said VBD
+
+1204 he PPS
+
+1205 ,
+1206 too RB
+
+1207 ,
+1208 was BEDZ
+
+1209 subjected VBN
+
+1210 to IN
+
+1211 anonymous JJ
+
+1212 calls NNS
+
+1213 soon RB
+
+1214 after CS
+
+1215 he PPS
+
+1216 scheduled VBD
+
+1217 the AT
+
+1218 election NN
+
+1219 .
+1220 many AP
+
+1221 local JJ
+
+1222 citizens NNS
+
+1223 feared VBD
+
+1224 that CS
+
+1225 there EX
+
+1226 would MD
+
+1227 be BE
+
+1228 irregularities NNS
+
+1229 at IN
+
+1230 the AT
+
+1231 polls NNS
+
+1232 ,
+1233 and CC
+
+1234 williams NP
+
+1235 got VBD
+
+1236 himself PPL
+
+1237 a AT
+
+1238 permit NN
+
+1239 to TO
+
+1240 carry VB
+
+1241 a AT
+
+1242 gun NN
+
+1243 and CC
+
+1244 promised VBD
+
+1245 an AT
+
+1246 orderly JJ
+
+1247 election NN
+
+1248 .
+1249 sheriff NN-TL
+
+1250 felix NP
+
+1251 tabb NP
+
+1252 said VBD
+
+1253 the AT
+
+1254 ordinary NN
+
+1255 apparently RB
+
+1256 made VBN
+
+1257 good JJ
+
+1258 his PP$
+
+1259 promise NN
+
+1260 .
+1261 `` ``
+
+1262 everything PN
+
+1263 went VBD
+
+1264 real QL
+
+1265 smooth JJ
+
+1266 '' ''
+
+1267 ,
+1268 the AT
+
+1269 sheriff NN
+
+1270 said VBD
+
+1271 .
+1272 `` ``
+
+1273 there EX
+
+1274 wasn't BEDZ*
+
+1275 a AT
+
+1276 bit NN
+
+1277 of IN
+
+1278 trouble NN
+
+1279 '' ''
+
+1280 .
+1281 austin NP
+
+1282 ,
+1283 texas NP-HL
+
+1284 -- --
+
+1285 committee NN
+
+1286 approval NN
+
+1287 of IN
+
+1288 gov. NN-TL
+
+1289 price NP
+
+1290 daniel's NP$
+
+1291 `` ``
+
+1292 abandoned VBN
+
+1293 property NN
+
+1294 '' ''
+
+1295 act NN
+
+1296 seemed VBD
+
+1297 certain JJ
+
+1298 thursday NR
+
+1299 despite IN
+
+1300 the AT
+
+1301 adamant JJ
+
+1302 protests NNS
+
+1303 of IN
+
+1304 texas NP
+
+1305 bankers NNS
+
+1306 .
+1307 daniel NP
+
+1308 personally RB
+
+1309 led VBD
+
+1310 the AT
+
+1311 fight NN
+
+1312 for IN
+
+1313 the AT
+
+1314 measure NN
+
+1315 ,
+1316 which WDT
+
+1317 he PPS
+
+1318 had HVD
+
+1319 watered VBN
+
+1320 down RP
+
+1321 considerably RB
+
+1322 since IN
+
+1323 its PP$
+
+1324 rejection NN
+
+1325 by IN
+
+1326 two CD
+
+1327 previous JJ
+
+1328 legislatures NNS-TL
+
+1329 ,
+1330 in IN
+
+1331 a AT
+
+1332 public JJ
+
+1333 hearing NN
+
+1334 before IN
+
+1335 the AT
+
+1336 house NN
+
+1337 committee NN
+
+1338 on IN
+
+1339 revenue NN
+
+1340 and CC
+
+1341 taxation NN-TL
+
+1342 .
+1343 under IN
+
+1344 committee NN
+
+1345 rules NNS
+
+1346 ,
+1347 it PPS
+
+1348 went VBD
+
+1349 automatically RB
+
+1350 to IN
+
+1351 a AT
+
+1352 subcommittee NN
+
+1353 for IN
+
+1354 one CD
+
+1355 week NN
+
+1356 .
+1357 but CC
+
+1358 questions NNS
+
+1359 with IN
+
+1360 which WDT
+
+1361 committee NN
+
+1362 members NNS
+
+1363 taunted VBD
+
+1364 bankers NNS
+
+1365 appearing VBG
+
+1366 as CS
+
+1367 witnesses NNS
+
+1368 left VBN
+
+1369 little JJ
+
+1370 doubt NN
+
+1371 that CS
+
+1372 they PPSS
+
+1373 will MD
+
+1374 recommend VB
+
+1375 passage NN
+
+1376 of IN
+
+1377 it PPO
+
+1378 .
+1379 he PPS
+
+1380 told VBD
+
+1381 the AT
+
+1382 committee NN
+
+1383 the AT
+
+1384 measure NN
+
+1385 would MD
+
+1386 merely RB
+
+1387 provide VB
+
+1388 means NNS
+
+1389 of IN
+
+1390 enforcing VBG
+
+1391 the AT
+
+1392 escheat NN
+
+1393 law NN
+
+1394 which WDT
+
+1395 has HVZ
+
+1396 been BEN
+
+1397 on IN
+
+1398 the AT
+
+1399 books NNS
+
+1400 `` ``
+
+1401 since IN
+
+1402 texas NP
+
+1403 was BEDZ
+
+1404 a AT
+
+1405 republic NN
+
+1406 '' ''
+
+1407 .
+1408 it PPS
+
+1409 permits VBZ
+
+1410 the AT
+
+1411 state NN
+
+1412 to TO
+
+1413 take VB
+
+1414 over IN
+
+1415 bank NN
+
+1416 accounts NNS
+
+1417 ,
+1418 stocks NNS
+
+1419 and CC
+
+1420 other AP
+
+1421 personal JJ
+
+1422 property NN
+
+1423 of IN
+
+1424 persons NNS
+
+1425 missing VBG
+
+1426 for IN
+
+1427 seven CD
+
+1428 years NNS
+
+1429 or CC
+
+1430 more AP
+
+1431 .
+1432 the AT
+
+1433 bill NN
+
+1434 ,
+1435 which WDT
+
+1436 daniel NP
+
+1437 said VBD
+
+1438 he PPS
+
+1439 drafted VBD
+
+1440 personally RB
+
+1441 ,
+1442 would MD
+
+1443 force VB
+
+1444 banks NNS
+
+1445 ,
+1446 insurance NN
+
+1447 firms NNS
+
+1448 ,
+1449 pipeline NN
+
+1450 companies NNS
+
+1451 and CC
+
+1452 other AP
+
+1453 corporations NNS
+
+1454 to TO
+
+1455 report VB
+
+1456 such JJ
+
+1457 property NN
+
+1458 to IN
+
+1459 the AT
+
+1460 state NN
+
+1461 treasurer NN
+
+1462 .
+1463 daniel NP
+
+1464 declared VBD
+
+1465 .
+1466 dewey NP
+
+1467 lawrence NP
+
+1468 ,
+1469 a AT
+
+1470 tyler NP
+
+1471 lawyer NN
+
+1472 representing VBG
+
+1473 the AT
+
+1474 texas NP-TL
+
+1475 bankers NNS-TL
+
+1476 association NN-TL
+
+1477 ,
+1478 sounded VBD
+
+1479 the AT
+
+1480 opposition NN
+
+1481 keynote NN
+
+1482 when WRB
+
+1483 he PPS
+
+1484 said VBD
+
+1485 it PPS
+
+1486 would MD
+
+1487 force VB
+
+1488 banks NNS
+
+1489 to TO
+
+1490 violate VB
+
+1491 their PP$
+
+1492 contractual JJ
+
+1493 obligations NNS
+
+1494 with IN
+
+1495 depositors NNS
+
+1496 and CC
+
+1497 undermine VB
+
+1498 the AT
+
+1499 confidence NN
+
+1500 of IN
+
+1501 bank NN
+
+1502 customers NNS
+
+1503 .
+1504 `` ``
+
+1505 if CS
+
+1506 you PPSS
+
+1507 destroy VB
+
+1508 confidence NN
+
+1509 in IN
+
+1510 banks NNS
+
+1511 ,
+1512 you PPSS
+
+1513 do DO
+
+1514 something PN
+
+1515 to IN
+
+1516 the AT
+
+1517 economy NN
+
+1518 '' ''
+
+1519 ,
+1520 he PPS
+
+1521 said VBD
+
+1522 .
+1523 `` ``
+
+1524 you PPSS
+
+1525 take VB
+
+1526 out RP
+
+1527 of IN
+
+1528 circulation NN
+
+1529 many AP
+
+1530 millions NNS
+
+1531 of IN
+
+1532 dollars NNS
+
+1533 '' ''
+
+1534 .
+1535 rep. NN-TL
+
+1536 charles NP
+
+1537 e. NP
+
+1538 hughes NP
+
+1539 of IN
+
+1540 sherman NP
+
+1541 ,
+1542 sponsor NN
+
+1543 of IN
+
+1544 the AT
+
+1545 bill NN
+
+1546 ,
+1547 said VBD
+
+1548 a AT
+
+1549 failure NN
+
+1550 to TO
+
+1551 enact VB
+
+1552 it PPS
+
+1553 would MD
+
+1554 amount VB
+
+1555 `` ``
+
+1556 to IN
+
+1557 making VBG
+
+1558 a AT
+
+1559 gift NN
+
+1560 out IN
+
+1561 of IN
+
+1562 the AT
+
+1563 taxpayers' NNS$
+
+1564 pockets NNS
+
+1565 to IN
+
+1566 banks NNS
+
+1567 ,
+1568 insurance NN
+
+1569 and CC
+
+1570 pipeline NN
+
+1571 companies NNS
+
+1572 '' ''
+
+1573 .
+1574 his PP$
+
+1575 contention NN
+
+1576 was BEDZ
+
+1577 denied VBN
+
+1578 by IN
+
+1579 several AP
+
+1580 bankers NNS
+
+1581 ,
+1582 including IN
+
+1583 scott NP
+
+1584 hudson NP
+
+1585 of IN
+
+1586 sherman NP
+
+1587 ,
+1588 gaynor NP
+
+1589 b. NP
+
+1590 jones NP
+
+1591 of IN
+
+1592 houston NP
+
+1593 ,
+1594 j. NP
+
+1595 b. NP
+
+1596 brady NP
+
+1597 of IN
+
+1598 harlingen NP
+
+1599 and CC
+
+1600 howard NP
+
+1601 cox NP
+
+1602 of IN
+
+1603 austin NP
+
+1604 .
+1605 cox NP
+
+1606 argued VBD
+
+1607 that CS
+
+1608 the AT
+
+1609 bill NN
+
+1610 is BEZ
+
+1611 `` ``
+
+1612 probably RB
+
+1613 unconstitutional JJ
+
+1614 '' ''
+
+1615 since CS
+
+1616 ,
+1617 he PPS
+
+1618 said VBD
+
+1619 ,
+1620 it PPS
+
+1621 would MD
+
+1622 impair VB
+
+1623 contracts NNS
+
+1624 .
+1625 since IN
+
+1626 the AT
+
+1627 bill NN
+
+1628 was BEDZ
+
+1629 introduced VBN
+
+1630 only RB
+
+1631 last AP
+
+1632 monday NR
+
+1633 .
+1634 austin NP
+
+1635 ,
+1636 texas NP-HL
+
+1637 -- --
+
+1638 senators NNS
+
+1639 unanimously RB
+
+1640 approved VBD
+
+1641 thursday NR
+
+1642 the AT
+
+1643 bill NN
+
+1644 of IN
+
+1645 sen. NN-TL
+
+1646 george NP
+
+1647 parkhouse NP
+
+1648 of IN
+
+1649 dallas NP
+
+1650 authorizing VBG
+
+1651 establishment NN
+
+1652 of IN
+
+1653 day NN
+
+1654 schools NNS
+
+1655 for IN
+
+1656 the AT
+
+1657 deaf JJ
+
+1658 in IN
+
+1659 dallas NP
+
+1660 and CC
+
+1661 the AT
+
+1662 four CD
+
+1663 other AP
+
+1664 largest JJT
+
+1665 counties NNS
+
+1666 .
+1667 the AT
+
+1668 bill NN
+
+1669 is BEZ
+
+1670 designed VBN
+
+1671 to TO
+
+1672 provide VB
+
+1673 special JJ
+
+1674 schooling NN
+
+1675 for IN
+
+1676 more AP
+
+1677 deaf JJ
+
+1678 students NNS
+
+1679 in IN
+
+1680 the AT
+
+1681 scholastic JJ
+
+1682 age NN
+
+1683 at IN
+
+1684 a AT
+
+1685 reduced VBN
+
+1686 cost NN
+
+1687 to IN
+
+1688 the AT
+
+1689 state NN
+
+1690 .
+1691 it PPS
+
+1692 would MD
+
+1693 authorize VB
+
+1694 the AT
+
+1695 texas NP-TL
+
+1696 education NN-TL
+
+1697 agency NN-TL
+
+1698 to TO
+
+1699 establish VB
+
+1700 county-wide JJ
+
+1701 day NN
+
+1702 schools NNS
+
+1703 for IN
+
+1704 the AT
+
+1705 deaf JJ
+
+1706 in IN
+
+1707 counties NNS
+
+1708 of IN
+
+1709 300,000 CD
+
+1710 or CC
+
+1711 more AP
+
+1712 population NN
+
+1713 ,
+1714 require VB
+
+1715 deaf JJ
+
+1716 children NNS
+
+1717 between IN
+
+1718 6 CD
+
+1719 and CC
+
+1720 13 CD
+
+1721 years NNS
+
+1722 of IN
+
+1723 age NN
+
+1724 to TO
+
+1725 attend VB
+
+1726 the AT
+
+1727 day NN
+
+1728 schools NNS
+
+1729 ,
+1730 permitting VBG
+
+1731 older JJR
+
+1732 ones NNS
+
+1733 to TO
+
+1734 attend VB
+
+1735 the AT
+
+1736 residential JJ
+
+1737 texas NP
+
+1738 school NN
+
+1739 for IN
+
+1740 the AT
+
+1741 deaf JJ-TL
+
+1742 here RB
+
+1743 .
+1744 operating VBG
+
+1745 budget NN
+
+1746 for IN
+
+1747 the AT
+
+1748 day NN
+
+1749 schools NNS
+
+1750 in IN
+
+1751 the AT
+
+1752 five CD
+
+1753 counties NNS
+
+1754 of IN
+
+1755 dallas NP
+
+1756 ,
+1757 harris NP
+
+1758 ,
+1759 bexar NP
+
+1760 ,
+1761 tarrant NP
+
+1762 and CC
+
+1763 el NP
+
+1764 paso NP
+
+1765 would MD
+
+1766 be BE
+
+1767 $451,500 NNS
+
+1768 ,
+1769 which WDT
+
+1770 would MD
+
+1771 be BE
+
+1772 a AT
+
+1773 savings NNS
+
+1774 of IN
+
+1775 $157,460 NNS
+
+1776 yearly RB
+
+1777 after CS
+
+1778 the AT
+
+1779 first OD
+
+1780 year's NN$
+
+1781 capital NN
+
+1782 outlay NN
+
+1783 of IN
+
+1784 $88,000 NNS
+
+1785 was BEDZ
+
+1786 absorbed VBN
+
+1787 ,
+1788 parkhouse NP
+
+1789 told VBD
+
+1790 the AT
+
+1791 senate NN-TL
+
+1792 .
+1793 the AT
+
+1794 tea NN
+
+1795 estimated VBD
+
+1796 there EX
+
+1797 would MD
+
+1798 be BE
+
+1799 182 CD
+
+1800 scholastics NNS
+
+1801 to TO
+
+1802 attend VB
+
+1803 the AT
+
+1804 day NN
+
+1805 school NN
+
+1806 in IN
+
+1807 dallas NP
+
+1808 county NN
+
+1809 ,
+1810 saving VBG
+
+1811 them PPO
+
+1812 from IN
+
+1813 coming VBG
+
+1814 to IN
+
+1815 austin NP
+
+1816 to TO
+
+1817 live VB
+
+1818 in IN
+
+1819 the AT
+
+1820 state NN
+
+1821 deaf JJ
+
+1822 school NN
+
+1823 .
+1824 dallas NP
+
+1825 may MD
+
+1826 get VB
+
+1827 to TO
+
+1828 hear VB
+
+1829 a AT
+
+1830 debate NN
+
+1831 on IN
+
+1832 horse NN
+
+1833 race NN
+
+1834 parimutuels NNS
+
+1835 soon RB
+
+1836 between IN
+
+1837 reps. NNS-TL
+
+1838 v. NP
+
+1839 e. NP
+
+1840 ( (
+
+1841 red NP
+
+1842 ) )
+
+1843 berry NP
+
+1844 and CC
+
+1845 joe NP
+
+1846 ratcliff NP
+
+1847 .
+1848 while CS
+
+1849 details NNS
+
+1850 are BER
+
+1851 still RB
+
+1852 to TO
+
+1853 be BE
+
+1854 worked VBN
+
+1855 out RP
+
+1856 ,
+1857 ratcliff NP
+
+1858 said VBD
+
+1859 he PPS
+
+1860 expects VBZ
+
+1861 to TO
+
+1862 tell VB
+
+1863 home NN
+
+1864 folks NNS
+
+1865 in IN
+
+1866 dallas NP
+
+1867 why WRB
+
+1868 he PPS
+
+1869 thinks VBZ
+
+1870 berry's NP$
+
+1871 proposed VBN
+
+1872 constitutional JJ
+
+1873 amendment NN
+
+1874 should MD
+
+1875 be BE
+
+1876 rejected VBN
+
+1877 .
+1878 `` ``
+
+1879 we're PPSS+BER
+
+1880 getting VBG
+
+1881 more AP
+
+1882 ' '
+
+1883 pro JJ
+
+1884 ' '
+
+1885 letters NNS
+
+1886 than IN
+
+1887 ' '
+
+1888 con JJ
+
+1889 ' '
+
+1890 on IN
+
+1891 horse NN
+
+1892 race NN
+
+1893 betting NN
+
+1894 '' ''
+
+1895 ,
+1896 said VBD
+
+1897 ratcliff NP
+
+1898 .
+1899 `` ``
+
+1900 but CC
+
+1901 i PPSS
+
+1902 believe VB
+
+1903 if CS
+
+1904 people NNS
+
+1905 were BED
+
+1906 better RBR
+
+1907 informed VBN
+
+1908 on IN
+
+1909 this DT
+
+1910 question NN
+
+1911 ,
+1912 most RBT
+
+1913 of IN
+
+1914 them PPO
+
+1915 would MD
+
+1916 oppose VB
+
+1917 it PPO
+
+1918 also RB
+
+1919 .
+1920 i'm PPSS+BEM
+
+1921 willing JJ
+
+1922 to TO
+
+1923 stake VB
+
+1924 my PP$
+
+1925 political JJ
+
+1926 career NN
+
+1927 on IN
+
+1928 it PPO
+
+1929 '' ''
+
+1930 .
+1931 rep. NN-TL
+
+1932 berry NP
+
+1933 ,
+1934 an AT
+
+1935 ex-gambler NN
+
+1936 from IN
+
+1937 san NP
+
+1938 antonio NP
+
+1939 ,
+1940 got VBD
+
+1941 elected VBN
+
+1942 on IN
+
+1943 his PP$
+
+1944 advocacy NN
+
+1945 of IN
+
+1946 betting NN
+
+1947 on IN
+
+1948 the AT
+
+1949 ponies NNS
+
+1950 .
+1951 a AT
+
+1952 house NN
+
+1953 committee NN
+
+1954 which WDT
+
+1955 heard VBD
+
+1956 his PP$
+
+1957 local JJ
+
+1958 option NN
+
+1959 proposal NN
+
+1960 is BEZ
+
+1961 expected VBN
+
+1962 to TO
+
+1963 give VB
+
+1964 it PPO
+
+1965 a AT
+
+1966 favorable JJ
+
+1967 report NN
+
+1968 ,
+1969 although CS
+
+1970 the AT
+
+1971 resolution NN
+
+1972 faces VBZ
+
+1973 hard JJ
+
+1974 sledding NN
+
+1975 later RBR
+
+1976 .
+1977 the AT
+
+1978 house NN-TL
+
+1979 passed VBD
+
+1980 finally RB
+
+1981 ,
+1982 and CC
+
+1983 sent VBN
+
+1984 to IN
+
+1985 the AT
+
+1986 senate NN-TL
+
+1987 ,
+1988 a AT
+
+1989 bill NN
+
+1990 extending VBG
+
+1991 the AT
+
+1992 state NN-TL
+
+1993 health NN-TL
+
+1994 department's NN$-TL
+
+1995 authority NN
+
+1996 to TO
+
+1997 give VB
+
+1998 planning VBG
+
+1999 assistance NN
+
+2000 to IN
+
+2001 cities NNS
+
+2002 .
+2003 the AT
+
+2004 senate NN
+
+2005 quickly RB
+
+2006 whipped VBD
+
+2007 through IN
+
+2008 its PP$
+
+2009 meager JJ
+
+2010 fare NN
+
+2011 of IN
+
+2012 house NN-TL
+
+2013 bills NNS
+
+2014 approved VBN
+
+2015 by IN
+
+2016 committees NNS
+
+2017 ,
+2018 passing VBG
+
+2019 the AT
+
+2020 three CD
+
+2021 on IN
+
+2022 the AT
+
+2023 calendar NN
+
+2024 .
+2025 one CD
+
+2026 validated VBD
+
+2027 acts NNS
+
+2028 of IN
+
+2029 school NN
+
+2030 districts NNS
+
+2031 .
+2032 the AT
+
+2033 third OD
+
+2034 amended VBD
+
+2035 the AT
+
+2036 enabling VBG
+
+2037 act NN
+
+2038 for IN
+
+2039 creation NN
+
+2040 of IN
+
+2041 the AT
+
+2042 lamar NP-TL
+
+2043 county NN-TL
+
+2044 hospital NN-TL
+
+2045 district NN-TL
+
+2046 ,
+2047 for IN
+
+2048 which WDT
+
+2049 a AT
+
+2050 special JJ
+
+2051 constitutional JJ
+
+2052 amendment NN
+
+2053 previously RB
+
+2054 was BEDZ
+
+2055 adopted VBN
+
+2056 .
+2057 without IN
+
+2058 dissent NN
+
+2059 ,
+2060 senators NNS
+
+2061 passed VBD
+
+2062 a AT
+
+2063 bill NN
+
+2064 by IN
+
+2065 sen. NN-TL
+
+2066 a. NP
+
+2067 r. NP
+
+2068 schwartz NP
+
+2069 of IN
+
+2070 galveston NP
+
+2071 authorizing VBG
+
+2072 establishment NN
+
+2073 in IN
+
+2074 the AT
+
+2075 future NN
+
+2076 of IN
+
+2077 a AT
+
+2078 school NN
+
+2079 for IN
+
+2080 the AT
+
+2081 mentally RB
+
+2082 retarded VBN
+
+2083 in IN
+
+2084 the AT
+
+2085 gulf NN-TL
+
+2086 coast NN-TL
+
+2087 district NN-TL
+
+2088 .
+2089 money NN
+
+2090 for IN
+
+2091 its PP$
+
+2092 construction NN
+
+2093 will MD
+
+2094 be BE
+
+2095 sought VBN
+
+2096 later RBR
+
+2097 on IN
+
+2098 but CC
+
+2099 in IN
+
+2100 the AT
+
+2101 meantime NN
+
+2102 the AT
+
+2103 state NN
+
+2104 hospital NN
+
+2105 board NN
+
+2106 can MD
+
+2107 accept VB
+
+2108 gifts NNS
+
+2109 and CC
+
+2110 donations NNS
+
+2111 of IN
+
+2112 a AT
+
+2113 site NN
+
+2114 .
+2115 two CD
+
+2116 tax NN
+
+2117 revision NN
+
+2118 bills NNS
+
+2119 were BED
+
+2120 passed VBN
+
+2121 .
+2122 one CD
+
+2123 ,
+2124 by IN
+
+2125 sen. NN-TL
+
+2126 louis NP
+
+2127 crump NP
+
+2128 of IN
+
+2129 san NP
+
+2130 saba NP
+
+2131 ,
+2132 instead RB
+
+2133 ,
+2134 retailers NNS
+
+2135 would MD
+
+2136 sign VB
+
+2137 a AT
+
+2138 certificate NN
+
+2139 of IN
+
+2140 correctness NN
+
+2141 ,
+2142 violation NN
+
+2143 of IN
+
+2144 which WDT
+
+2145 would MD
+
+2146 carry VB
+
+2147 a AT
+
+2148 penalty NN
+
+2149 of IN
+
+2150 one CD
+
+2151 to IN
+
+2152 five CD
+
+2153 years NNS
+
+2154 in IN
+
+2155 prison NN
+
+2156 ,
+2157 plus CC
+
+2158 a AT
+
+2159 $1,000 NNS
+
+2160 fine NN
+
+2161 .
+2162 it PPS
+
+2163 was BEDZ
+
+2164 one CD
+
+2165 of IN
+
+2166 a AT
+
+2167 series NN
+
+2168 of IN
+
+2169 recommendations NNS
+
+2170 by IN
+
+2171 the AT
+
+2172 texas NP
+
+2173 research NN
+
+2174 league NN
+
+2175 .
+2176 the AT
+
+2177 other AP
+
+2178 bill NN
+
+2179 ,
+2180 by IN
+
+2181 sen. NN-TL
+
+2182 a. NP
+
+2183 m. NP
+
+2184 aikin NP
+
+2185 jr. NP
+
+2186 of IN
+
+2187 paris NP
+
+2188 ,
+2189 would MD
+
+2190 relieve VB
+
+2191 real JJ
+
+2192 estate NN
+
+2193 brokers NNS
+
+2194 ,
+2195 who WPS
+
+2196 pay VB
+
+2197 their PP$
+
+2198 own JJ
+
+2199 annual JJ
+
+2200 licensing VBG
+
+2201 fee NN
+
+2202 ,
+2203 from IN
+
+2204 the AT
+
+2205 $12 NNS
+
+2206 annual JJ
+
+2207 occupation NN
+
+2208 license NN
+
+2209 on IN
+
+2210 brokers NNS
+
+2211 in IN
+
+2212 such JJ
+
+2213 as CS
+
+2214 stocks NNS
+
+2215 and CC
+
+2216 bonds NNS
+
+2217 .
+2218 under IN
+
+2219 a AT
+
+2220 bill NN
+
+2221 by IN
+
+2222 sen. NN-TL
+
+2223 frank NP
+
+2224 owen NP
+
+2225 3 CD
+
+2226 ,
+2227 of IN
+
+2228 el NP
+
+2229 paso NP
+
+2230 ,
+2231 to TO
+
+2232 acquire VB
+
+2233 sites NNS
+
+2234 for IN
+
+2235 underground JJ
+
+2236 storage NN
+
+2237 reservoirs NNS
+
+2238 for IN
+
+2239 gas NN
+
+2240 .
+2241 marshall NP
+
+2242 formby NP
+
+2243 of IN
+
+2244 plainview NP
+
+2245 ,
+2246 former AP
+
+2247 chairman NN
+
+2248 of IN
+
+2249 the AT
+
+2250 texas NP-TL
+
+2251 highway NN-TL
+
+2252 commission NN
+
+2253 ,
+2254 suggested VBD
+
+2255 a AT
+
+2256 plan NN
+
+2257 to TO
+
+2258 fill VB
+
+2259 by IN
+
+2260 appointment NN
+
+2261 future NN
+
+2262 vacancies NNS
+
+2263 in IN
+
+2264 the AT
+
+2265 legislature NN
+
+2266 and CC
+
+2267 congress NP
+
+2268 ,
+2269 under IN
+
+2270 formby's NP$
+
+2271 plan NN
+
+2272 ,
+2273 an AT
+
+2274 appointee NN
+
+2275 would MD
+
+2276 be BE
+
+2277 selected VBN
+
+2278 by IN
+
+2279 a AT
+
+2280 board NN
+
+2281 composed VBN
+
+2282 of IN
+
+2283 the AT
+
+2284 governor NN
+
+2285 ,
+2286 lieutenant NN
+
+2287 governor NN
+
+2288 ,
+2289 speaker NN
+
+2290 of IN
+
+2291 the AT
+
+2292 house NN-TL
+
+2293 ,
+2294 attorney NN
+
+2295 general NN
+
+2296 and CC
+
+2297 chief NN
+
+2298 justice NN
+
+2299 of IN
+
+2300 the AT
+
+2301 texas NP-TL
+
+2302 supreme JJ-TL
+
+2303 court NN-TL
+
+2304 .
+2305 austin NP
+
+2306 ,
+2307 texas NP-HL
+
+2308 -- --
+
+2309 state NN
+
+2310 representatives NNS
+
+2311 decided VBD
+
+2312 thursday NR
+
+2313 against IN
+
+2314 taking VBG
+
+2315 a AT
+
+2316 poll NN
+
+2317 on IN
+
+2318 what WDT
+
+2319 kind NN
+
+2320 of IN
+
+2321 taxes NNS
+
+2322 texans NPS
+
+2323 would MD
+
+2324 prefer VB
+
+2325 to TO
+
+2326 pay VB
+
+2327 .
+2328 an AT
+
+2329 adverse JJ
+
+2330 vote NN
+
+2331 of IN
+
+2332 81 CD
+
+2333 to IN
+
+2334 65 CD
+
+2335 kept VBD
+
+2336 in IN
+
+2337 the AT
+
+2338 state NN-TL
+
+2339 affairs NNS-TL
+
+2340 committee NN-TL
+
+2341 a AT
+
+2342 bill NN
+
+2343 which WDT
+
+2344 would MD
+
+2345 order VB
+
+2346 the AT
+
+2347 referendum NN
+
+2348 on IN
+
+2349 the AT
+
+2350 april NP
+
+2351 4 CD
+
+2352 ballot NN
+
+2353 ,
+2354 when WRB
+
+2355 texas NP
+
+2356 votes NNS
+
+2357 on IN
+
+2358 a AT
+
+2359 u.s. NP-TL
+
+2360 senator NN-TL
+
+2361 .
+2362 rep. NN-TL
+
+2363 wesley NP
+
+2364 roberts NP
+
+2365 of IN
+
+2366 seminole NP
+
+2367 ,
+2368 sponsor NN
+
+2369 of IN
+
+2370 the AT
+
+2371 poll NN
+
+2372 idea NN
+
+2373 ,
+2374 said VBD
+
+2375 that CS
+
+2376 further JJR
+
+2377 delay NN
+
+2378 in IN
+
+2379 the AT
+
+2380 committee NN
+
+2381 can MD
+
+2382 kill VB
+
+2383 the AT
+
+2384 bill NN
+
+2385 .
+2386 the AT
+
+2387 west JJ-TL
+
+2388 texan NP-TL
+
+2389 reported VBD
+
+2390 that CS
+
+2391 he PPS
+
+2392 had HVD
+
+2393 finally RB
+
+2394 gotten VBN
+
+2395 chairman NN-TL
+
+2396 bill NP
+
+2397 hollowell NP
+
+2398 of IN
+
+2399 the AT
+
+2400 committee NN
+
+2401 to TO
+
+2402 set VB
+
+2403 it PPO
+
+2404 for IN
+
+2405 public JJ
+
+2406 hearing NN
+
+2407 on IN
+
+2408 feb. NP
+
+2409 22 CD
+
+2410 .
+2411 the AT
+
+2412 proposal NN
+
+2413 would MD
+
+2414 have HV
+
+2415 to TO
+
+2416 receive VB
+
+2417 final JJ
+
+2418 legislative JJ
+
+2419 approval NN
+
+2420 ,
+2421 by IN
+
+2422 two-thirds NNS
+
+2423 majorities NNS
+
+2424 ,
+2425 before IN
+
+2426 march NP
+
+2427 1 CD
+
+2428 to TO
+
+2429 be BE
+
+2430 printed VBN
+
+2431 on IN
+
+2432 the AT
+
+2433 april NP
+
+2434 4 CD
+
+2435 ballot NN
+
+2436 ,
+2437 roberts NP
+
+2438 said VBD
+
+2439 .
+2440 opponents NNS
+
+2441 generally RB
+
+2442 argued VBD
+
+2443 that CS
+
+2444 the AT
+
+2445 ballot NN
+
+2446 couldn't MD*
+
+2447 give VB
+
+2448 enough AP
+
+2449 information NN
+
+2450 about IN
+
+2451 tax NN
+
+2452 proposals NNS
+
+2453 for IN
+
+2454 the AT
+
+2455 voters NNS
+
+2456 to TO
+
+2457 make VB
+
+2458 an AT
+
+2459 intelligent JJ
+
+2460 choice NN
+
+2461 .
+2462 all ABN
+
+2463 dallas NP
+
+2464 members NNS
+
+2465 voted VBD
+
+2466 with IN
+
+2467 roberts NP
+
+2468 ,
+2469 except IN
+
+2470 rep. NN-TL
+
+2471 bill NP
+
+2472 jones NP
+
+2473 ,
+2474 who WPS
+
+2475 was BEDZ
+
+2476 absent JJ
+
+2477 .
+2478 austin NP
+
+2479 ,
+2480 rep. NN-TL
+
+2481 james NP
+
+2482 cotten NP
+
+2483 of IN
+
+2484 weatherford NP
+
+2485 insisted VBD
+
+2486 that CS
+
+2487 a AT
+
+2488 water NN
+
+2489 development NN
+
+2490 bill NN
+
+2491 passed VBD
+
+2492 by IN
+
+2493 the AT
+
+2494 texas NP-TL
+
+2495 house NN-TL
+
+2496 of IN
+
+2497 representatives NNS
+
+2498 was BEDZ
+
+2499 an AT
+
+2500 effort NN
+
+2501 by IN
+
+2502 big JJ
+
+2503 cities NNS
+
+2504 like CS
+
+2505 dallas NP
+
+2506 and CC
+
+2507 fort NN-TL
+
+2508 worth NP
+
+2509 to TO
+
+2510 cover VB
+
+2511 up RP
+
+2512 places NNS
+
+2513 like CS
+
+2514 paradise NN-TL
+
+2515 ,
+2516 a AT
+
+2517 wise NP-TL
+
+2518 county NN-TL
+
+2519 hamlet NN
+
+2520 of IN
+
+2521 250 CD
+
+2522 people NNS
+
+2523 .
+2524 when WRB
+
+2525 the AT
+
+2526 shouting NN
+
+2527 ended VBD
+
+2528 ,
+2529 the AT
+
+2530 bill NN
+
+2531 passed VBD
+
+2532 ,
+2533 114 CD
+
+2534 to IN
+
+2535 4 CD
+
+2536 ,
+2537 sending VBG
+
+2538 it PPO
+
+2539 to IN
+
+2540 the AT
+
+2541 senate NN-TL
+
+2542 ,
+2543 where WRB
+
+2544 a AT
+
+2545 similar JJ
+
+2546 proposal NN
+
+2547 is BEZ
+
+2548 being BEG
+
+2549 sponsored VBN
+
+2550 by IN
+
+2551 sen. NN-TL
+
+2552 george NP
+
+2553 parkhouse NP
+
+2554 of IN
+
+2555 dallas NP
+
+2556 .
+2557 most RBT
+
+2558 of IN
+
+2559 the AT
+
+2560 fire NN
+
+2561 was BEDZ
+
+2562 directed VBN
+
+2563 by IN
+
+2564 cotten NP
+
+2565 against IN
+
+2566 dallas NP
+
+2567 and CC
+
+2568 sen. NN-TL
+
+2569 parkhouse NP
+
+2570 .
+2571 the AT
+
+2572 bill NN
+
+2573 would MD
+
+2574 increase VB
+
+2575 from IN
+
+2576 $5,000,000 NNS
+
+2577 to IN
+
+2578 $15,000,000 NNS
+
+2579 the AT
+
+2580 maximum JJ
+
+2581 loan NN
+
+2582 the AT
+
+2583 state NN
+
+2584 could MD
+
+2585 make VB
+
+2586 to IN
+
+2587 a AT
+
+2588 local JJ
+
+2589 water NN
+
+2590 project NN
+
+2591 .
+2592 cotten NP
+
+2593 construed VBD
+
+2594 this DT
+
+2595 as CS
+
+2596 a AT
+
+2597 veiled VBN
+
+2598 effort NN
+
+2599 by IN
+
+2600 parkhouse NP
+
+2601 to TO
+
+2602 help VB
+
+2603 dallas NP
+
+2604 and CC
+
+2605 other AP
+
+2606 large JJ
+
+2607 cities NNS
+
+2608 get VB
+
+2609 money NN
+
+2610 which WDT
+
+2611 cotten NP
+
+2612 felt VBD
+
+2613 could MD
+
+2614 better VB
+
+2615 be BE
+
+2616 spent VBN
+
+2617 providing VBG
+
+2618 water NN
+
+2619 for IN
+
+2620 rural JJ-TL
+
+2621 texas NP-TL
+
+2622 .
+2623 statements NNS
+
+2624 by IN
+
+2625 other AP
+
+2626 legislators NNS
+
+2627 that CS
+
+2628 dallas NP
+
+2629 is BEZ
+
+2630 paying VBG
+
+2631 for IN
+
+2632 all ABN
+
+2633 its PP$
+
+2634 water NN
+
+2635 program NN
+
+2636 by IN
+
+2637 local JJ
+
+2638 bonds NNS
+
+2639 ,
+2640 and CC
+
+2641 that CS
+
+2642 less QL
+
+2643 populous JJ
+
+2644 places NNS
+
+2645 would MD
+
+2646 benefit VB
+
+2647 most AP
+
+2648 by IN
+
+2649 the AT
+
+2650 pending JJ
+
+2651 bill NN
+
+2652 ,
+2653 the AT
+
+2654 bill's NN$
+
+2655 defenders NNS
+
+2656 were BED
+
+2657 mostly RB
+
+2658 small-town NN
+
+2659 legislators NNS
+
+2660 like CS
+
+2661 j. NP
+
+2662 w. NP
+
+2663 buchanan NP
+
+2664 of IN
+
+2665 dumas NP
+
+2666 ,
+2667 eligio NP
+
+2668 ( (
+
+2669 kika NP
+
+2670 ) )
+
+2671 de NP
+
+2672 la NP
+
+2673 garza NP
+
+2674 of IN
+
+2675 mission NN-TL
+
+2676 ,
+2677 `` ``
+
+2678 this DT
+
+2679 is BEZ
+
+2680 a AT
+
+2681 poor JJ
+
+2682 boy's NN$
+
+2683 bill NN
+
+2684 '' ''
+
+2685 ,
+2686 said VBD
+
+2687 chapman NP
+
+2688 .
+2689 `` ``
+
+2690 dallas NP
+
+2691 and CC
+
+2692 fort NN-TL
+
+2693 worth NN
+
+2694 can MD
+
+2695 vote VB
+
+2696 bonds NNS
+
+2697 .
+2698 this DT
+
+2699 would MD
+
+2700 help VB
+
+2701 the AT
+
+2702 little JJ
+
+2703 peanut NN
+
+2704 districts NNS
+
+2705 '' ''
+
+2706 .
+2707 austin NP
+
+2708 ,
+2709 texas NP-HL
+
+2710 -- --
+
+2711 a AT
+
+2712 houston NP
+
+2713 teacher NN
+
+2714 ,
+2715 proposed VBD
+
+2716 thursday NR
+
+2717 a AT
+
+2718 law NN
+
+2719 reducing VBG
+
+2720 the AT
+
+2721 time NN
+
+2722 spent VBD
+
+2723 learning VBG
+
+2724 `` ``
+
+2725 educational JJ
+
+2726 methods NNS
+
+2727 '' ''
+
+2728 .
+2729 rep. NN-TL
+
+2730 henry NP
+
+2731 c. NP
+
+2732 grover NP
+
+2733 ,
+2734 who WPS
+
+2735 teaches VBZ
+
+2736 history NN
+
+2737 in IN
+
+2738 the AT
+
+2739 houston NP
+
+2740 public NN
+
+2741 schools NNS
+
+2742 ,
+2743 would MD
+
+2744 reduce VB
+
+2745 from IN
+
+2746 24 CD
+
+2747 to IN
+
+2748 12 CD
+
+2749 semester NN
+
+2750 hours NNS
+
+2751 the AT
+
+2752 so-called JJ
+
+2753 `` ``
+
+2754 teaching VBG
+
+2755 methods NNS
+
+2756 '' ''
+
+2757 courses NNS
+
+2758 required VBN
+
+2759 to TO
+
+2760 obtain VB
+
+2761 a AT
+
+2762 junior JJ
+
+2763 or CC
+
+2764 senior JJ
+
+2765 high JJ
+
+2766 school NN
+
+2767 teaching VBG
+
+2768 certificate NN
+
+2769 .
+2770 grover NP
+
+2771 also RB
+
+2772 would MD
+
+2773 require VB
+
+2774 junior-senior JJ
+
+2775 high JJ
+
+2776 teachers NNS
+
+2777 to TO
+
+2778 have HV
+
+2779 at IN
+
+2780 least AP
+
+2781 24 CD
+
+2782 semester NN
+
+2783 hours NNS
+
+2784 credit NN
+
+2785 in IN
+
+2786 the AT
+
+2787 subject NN
+
+2788 they PPSS
+
+2789 are BER
+
+2790 teaching VBG
+
+2791 .
+2792 the AT
+
+2793 remainder NN
+
+2794 of IN
+
+2795 the AT
+
+2796 4-year JJ
+
+2797 college NN
+
+2798 requirement NN
+
+2799 would MD
+
+2800 be BE
+
+2801 in IN
+
+2802 general JJ
+
+2803 subjects NNS
+
+2804 .
+2805 `` ``
+
+2806 a AT
+
+2807 person NN
+
+2808 with IN
+
+2809 a AT
+
+2810 master's NN$
+
+2811 degree NN
+
+2812 in IN
+
+2813 physics NN
+
+2814 ,
+2815 chemistry NN
+
+2816 ,
+2817 math NN
+
+2818 or CC
+
+2819 english NP
+
+2820 ,
+2821 said VBD
+
+2822 grover NP
+
+2823 .
+2824 fifty-three CD
+
+2825 of IN
+
+2826 the AT
+
+2827 150 CD
+
+2828 representatives NNS
+
+2829 immediately RB
+
+2830 joined VBD
+
+2831 grover NP
+
+2832 as CS
+
+2833 co-signers NNS
+
+2834 of IN
+
+2835 the AT
+
+2836 proposal NN
+
+2837 .
+2838 paris NP
+
+2839 ,
+2840 dr. NN-TL
+
+2841 clark NP
+
+2842 will MD
+
+2843 succeed VB
+
+2844 dr. NN-TL
+
+2845 j. NP
+
+2846 r. NP
+
+2847 mclemore NP
+
+2848 ,
+2849 who WPS
+
+2850 will MD
+
+2851 retire VB
+
+2852 at IN
+
+2853 the AT
+
+2854 close NN
+
+2855 of IN
+
+2856 the AT
+
+2857 present JJ
+
+2858 school NN
+
+2859 term NN
+
+2860 .
+2861 dr. NN-TL
+
+2862 clark NP
+
+2863 holds VBZ
+
+2864 an AT
+
+2865 earned VBN
+
+2866 doctor NN
+
+2867 of IN
+
+2868 education NN
+
+2869 degree NN
+
+2870 from IN
+
+2871 the AT
+
+2872 university NN-TL
+
+2873 of IN
+
+2874 oklahoma NP
+
+2875 .
+2876 he PPS
+
+2877 also RB
+
+2878 received VBD
+
+2879 a AT
+
+2880 master NN-TL
+
+2881 of IN-TL
+
+2882 science NN-TL
+
+2883 degree NN
+
+2884 from IN
+
+2885 texas NP
+
+2886 a NN
+
+2887 & CC
+
+2888 i NN
+
+2889 college NN
+
+2890 and CC
+
+2891 a AT
+
+2892 bachelor NN-TL
+
+2893 of IN-TL
+
+2894 science NN-TL
+
+2895 degree NN
+
+2896 from IN
+
+2897 southwestern JJ-TL
+
+2898 state NN-TL
+
+2899 college NN-TL
+
+2900 ,
+2901 weatherford NP
+
+2902 ,
+2903 okla. NP
+
+2904 .
+2905 in IN
+
+2906 addition NN
+
+2907 ,
+2908 dr. NN-TL
+
+2909 clark NP
+
+2910 has HVZ
+
+2911 studied VBN
+
+2912 at IN
+
+2913 rhode NP-TL
+
+2914 island NN-TL
+
+2915 state NN-TL
+
+2916 college NN-TL
+
+2917 and CC
+
+2918 massachusetts NP-TL
+
+2919 institute NN-TL
+
+2920 of IN-TL
+
+2921 technology NN-TL
+
+2922 .
+2923 during IN
+
+2924 his PP$
+
+2925 college NN
+
+2926 career NN
+
+2927 ,
+2928 dr. NN-TL
+
+2929 clark NP
+
+2930 was BEDZ
+
+2931 captain NN
+
+2932 of IN
+
+2933 his PP$
+
+2934 basketball NN
+
+2935 team NN
+
+2936 and CC
+
+2937 was BEDZ
+
+2938 a AT
+
+2939 football NN
+
+2940 letterman NN
+
+2941 .
+2942 dr. NN-TL
+
+2943 clark NP
+
+2944 has HVZ
+
+2945 served VBN
+
+2946 as CS
+
+2947 teacher NN
+
+2948 and CC
+
+2949 principal NN
+
+2950 in IN
+
+2951 oklahoma NP
+
+2952 high NN
+
+2953 schools NNS
+
+2954 ,
+2955 as CS
+
+2956 teacher NN
+
+2957 and CC
+
+2958 athletic JJ
+
+2959 director NN
+
+2960 at IN
+
+2961 raymondville NP
+
+2962 ,
+2963 texas NP
+
+2964 ,
+2965 high JJ
+
+2966 school NN
+
+2967 ,
+2968 as CS
+
+2969 an AT
+
+2970 instructor NN
+
+2971 at IN
+
+2972 the AT
+
+2973 university NN-TL
+
+2974 of IN
+
+2975 oklahoma NP
+
+2976 ,
+2977 and CC
+
+2978 as CS
+
+2979 an AT
+
+2980 associate JJ
+
+2981 professor NN
+
+2982 of IN
+
+2983 education NN
+
+2984 at IN
+
+2985 fort NN-TL
+
+2986 hays NP
+
+2987 ,
+2988 kan. NP
+
+2989 ,
+2990 state NN-TL
+
+2991 college NN-TL
+
+2992 .
+2993 he PPS
+
+2994 has HVZ
+
+2995 served VBN
+
+2996 as CS
+
+2997 a AT
+
+2998 border NN
+
+2999 patrolman NN
+
+3000 and CC
+
+3001 was BEDZ
+
+3002 in IN
+
+3003 the AT
+
+3004 signal NN-TL
+
+3005 corps NN-TL
+
+3006 of IN
+
+3007 the AT
+
+3008 u.s. NP-TL
+
+3009 army NN-TL
+
+3010 .
+3011 denton NP-TL
+
+3012 ,
+3013 texas NP-HL
+
+3014 ( (-HL
+
+3015 sp. NN-HL
+
+3016 ) )-HL
+
+3017 -- --
+
+3018 principals NNS
+
+3019 of IN
+
+3020 the AT
+
+3021 13 CD
+
+3022 schools NNS
+
+3023 in IN
+
+3024 the AT
+
+3025 denton NP-TL
+
+3026 independent JJ-TL
+
+3027 school NN-TL
+
+3028 district NN-TL
+
+3029 have HV
+
+3030 been BEN
+
+3031 re-elected VBN
+
+3032 for IN
+
+3033 the AT
+
+3034 1961-62 CD
+
+3035 session NN
+
+3036 upon IN
+
+3037 the AT
+
+3038 recommendation NN
+
+3039 of IN
+
+3040 supt. NN-TL
+
+3041 chester NP
+
+3042 o. NP
+
+3043 strickland NP
+
+3044 .
+3045 state NN
+
+3046 and CC
+
+3047 federal JJ
+
+3048 legislation NN
+
+3049 against IN
+
+3050 racial JJ
+
+3051 discrimination NN
+
+3052 in IN
+
+3053 employment NN
+
+3054 was BEDZ
+
+3055 called VBN
+
+3056 for IN
+
+3057 yesterday NR
+
+3058 in IN
+
+3059 a AT
+
+3060 report NN
+
+3061 of IN
+
+3062 a AT
+
+3063 `` ``
+
+3064 blue JJ
+
+3065 ribbon NN
+
+3066 '' ''
+
+3067 citizens NNS
+
+3068 committee NN
+
+3069 on IN
+
+3070 the AT
+
+3071 aid NN
+
+3072 to IN
+
+3073 dependent JJ
+
+3074 children NNS
+
+3075 program NN
+
+3076 .
+3077 the AT
+
+3078 report NN
+
+3079 ,
+3080 listed VBD
+
+3081 10 CD
+
+3082 long JJ
+
+3083 range NN
+
+3084 recommendations NNS
+
+3085 designed VBN
+
+3086 to TO
+
+3087 reduce VB
+
+3088 the AT
+
+3089 soaring VBG
+
+3090 adc NN
+
+3091 case NN
+
+3092 load NN
+
+3093 .
+3094 the AT
+
+3095 report NN
+
+3096 called VBD
+
+3097 racial JJ
+
+3098 discrimination NN
+
+3099 in IN
+
+3100 employment NN
+
+3101 `` ``
+
+3102 one CD
+
+3103 of IN
+
+3104 the AT
+
+3105 most QL
+
+3106 serious JJ
+
+3107 causes NNS
+
+3108 of IN
+
+3109 family NN
+
+3110 breakdown NN
+
+3111 ,
+3112 desertion NN
+
+3113 ,
+3114 and CC
+
+3115 adc NN
+
+3116 dependency NN
+
+3117 '' ''
+
+3118 .
+3119 `` ``
+
+3120 must MD
+
+3121 solve VB
+
+3122 problem NN
+
+3123 '' ''
+
+3124 the AT
+
+3125 monthly JJ
+
+3126 cost NN
+
+3127 of IN
+
+3128 adc NN
+
+3129 to IN
+
+3130 more AP
+
+3131 than IN
+
+3132 100,000 CD
+
+3133 recipients NNS
+
+3134 in IN
+
+3135 the AT
+
+3136 county NN
+
+3137 is BEZ
+
+3138 4.4 CD
+
+3139 million CD
+
+3140 dollars NNS
+
+3141 ,
+3142 said VBD
+
+3143 c. NP
+
+3144 virgil NP
+
+3145 martin NP
+
+3146 ,
+3147 president NN
+
+3148 of IN
+
+3149 carson NP
+
+3150 pirie NP
+
+3151 scott NP
+
+3152 & CC-TL
+
+3153 co. NN-TL
+
+3154 ,
+3155 committee NN
+
+3156 chairman NN
+
+3157 .
+3158 `` ``
+
+3159 we PPSS
+
+3160 must MD
+
+3161 solve VB
+
+3162 the AT
+
+3163 problems NNS
+
+3164 which WDT
+
+3165 have HV
+
+3166 forced VBN
+
+3167 these DTS
+
+3168 people NNS
+
+3169 to TO
+
+3170 depend VB
+
+3171 upon IN
+
+3172 adc NN
+
+3173 for IN
+
+3174 subsistence NN
+
+3175 '' ''
+
+3176 ,
+3177 martin NP
+
+3178 said VBD
+
+3179 .
+3180 the AT
+
+3181 volume NN
+
+3182 of IN
+
+3183 adc NN
+
+3184 cases NNS
+
+3185 will MD
+
+3186 decrease VB
+
+3187 ,
+3188 martin NP
+
+3189 reported VBD
+
+3190 ,
+3191 when WRB
+
+3192 the AT
+
+3193 community NN
+
+3194 is BEZ
+
+3195 able JJ
+
+3196 to TO
+
+3197 deal VB
+
+3198 effectively RB
+
+3199 with IN
+
+3200 two CD
+
+3201 problems NNS
+
+3202 : :
+
+3203 relatively RB
+
+3204 limited VBN
+
+3205 skills NNS
+
+3206 and CC
+
+3207 discrimination NN
+
+3208 in IN
+
+3209 employment NN
+
+3210 because RB
+
+3211 of IN
+
+3212 color NN
+
+3213 .
+3214 these DTS
+
+3215 ,
+3216 he PPS
+
+3217 said VBD
+
+3218 ,
+3219 are BER
+
+3220 `` ``
+
+3221 two CD
+
+3222 of IN
+
+3223 the AT
+
+3224 principal NN
+
+3225 underlying VBG
+
+3226 causes NNS
+
+3227 for IN
+
+3228 family NN
+
+3229 breakups NNS
+
+3230 leading VBG
+
+3231 to IN
+
+3232 adc NN
+
+3233 '' ''
+
+3234 .
+3235 including IN
+
+3236 both ABX
+
+3237 parents NNS
+
+3238 ,
+3239 as CS
+
+3240 a AT
+
+3241 means NNS
+
+3242 of IN
+
+3243 preserving VBG
+
+3244 family NN
+
+3245 unity NN
+
+3246 .
+3247 research NN
+
+3248 projects NNS
+
+3249 as CS
+
+3250 soon RB
+
+3251 as CS
+
+3252 possible JJ
+
+3253 on IN
+
+3254 the AT
+
+3255 causes NNS
+
+3256 and CC
+
+3257 prevention NN
+
+3258 of IN
+
+3259 dependency NN
+
+3260 and CC
+
+3261 illegitimacy NN
+
+3262 .
+3263 several AP
+
+3264 defendants NNS
+
+3265 in IN
+
+3266 the AT
+
+3267 summerdale NP
+
+3268 police NN
+
+3269 burglary NN
+
+3270 trial NN
+
+3271 made VBD
+
+3272 statements NNS
+
+3273 indicating VBG
+
+3274 their PP$
+
+3275 guilt NN
+
+3276 at IN
+
+3277 the AT
+
+3278 time NN
+
+3279 of IN
+
+3280 their PP$
+
+3281 arrest NN
+
+3282 ,
+3283 judge NN-TL
+
+3284 james NP
+
+3285 b. NP
+
+3286 parsons NP
+
+3287 was BEDZ
+
+3288 told VBN
+
+3289 in IN
+
+3290 criminal JJ-TL
+
+3291 court NN-TL
+
+3292 yesterday NR
+
+3293 .
+3294 the AT
+
+3295 disclosure NN
+
+3296 by IN
+
+3297 charles NP
+
+3298 bellows NP
+
+3299 ,
+3300 chief JJS
+
+3301 defense NN
+
+3302 counsel NN
+
+3303 ,
+3304 bellows NP
+
+3305 made VBD
+
+3306 the AT
+
+3307 disclosure NN
+
+3308 when WRB
+
+3309 he PPS
+
+3310 asked VBD
+
+3311 judge NN-TL
+
+3312 parsons NP
+
+3313 to TO
+
+3314 grant VB
+
+3315 his PP$
+
+3316 client NN
+
+3317 ,
+3318 alan NP
+
+3319 clements NP
+
+3320 ,
+3321 30 CD
+
+3322 ,
+3323 a AT
+
+3324 separate JJ
+
+3325 trial NN
+
+3326 .
+3327 bellows NP
+
+3328 made VBD
+
+3329 the AT
+
+3330 request NN
+
+3331 while CS
+
+3332 the AT
+
+3333 all-woman JJ
+
+3334 jury NN
+
+3335 was BEDZ
+
+3336 out IN
+
+3337 of IN
+
+3338 the AT
+
+3339 courtroom NN
+
+3340 .
+3341 fears VBZ-HL
+
+3342 prejudicial JJ-HL
+
+3343 aspects NNS-HL
+
+3344 `` ``
+
+3345 the AT
+
+3346 statements NNS
+
+3347 may MD
+
+3348 be BE
+
+3349 highly QL
+
+3350 prejudicial JJ
+
+3351 to IN
+
+3352 my PP$
+
+3353 client NN
+
+3354 '' ''
+
+3355 ,
+3356 bellows NP
+
+3357 told VBD
+
+3358 the AT
+
+3359 court NN
+
+3360 .
+3361 `` ``
+
+3362 some DTI
+
+3363 of IN
+
+3364 the AT
+
+3365 defendants NNS
+
+3366 strongly RB
+
+3367 indicated VBD
+
+3368 they PPSS
+
+3369 knew VBD
+
+3370 they PPSS
+
+3371 were BED
+
+3372 receiving VBG
+
+3373 stolen VBN
+
+3374 property NN
+
+3375 .
+3376 it PPS
+
+3377 is BEZ
+
+3378 impossible JJ
+
+3379 to TO
+
+3380 get VB
+
+3381 a AT
+
+3382 fair JJ
+
+3383 trial NN
+
+3384 when WRB
+
+3385 some DTI
+
+3386 of IN
+
+3387 the AT
+
+3388 defendants NNS
+
+3389 made VBN
+
+3390 statements NNS
+
+3391 involving VBG
+
+3392 themselves PPLS
+
+3393 and CC
+
+3394 others NNS
+
+3395 '' ''
+
+3396 .
+3397 judge NN-TL
+
+3398 parsons NP
+
+3399 leaned VBD
+
+3400 over IN
+
+3401 the AT
+
+3402 bench NN
+
+3403 and CC
+
+3404 inquired VBD
+
+3405 ,
+3406 `` ``
+
+3407 you PPSS
+
+3408 mean VB
+
+3409 some DTI
+
+3410 of IN
+
+3411 the AT
+
+3412 defendants NNS
+
+3413 made VBN
+
+3414 statements NNS
+
+3415 admitting VBG
+
+3416 this DT
+
+3417 '' ''
+
+3418 ?
+3419 ?
+3420 `` ``
+
+3421 yes RB
+
+3422 ,
+3423 your PP$
+
+3424 honor NN
+
+3425 '' ''
+
+3426 ,
+3427 replied VBD
+
+3428 bellows NP
+
+3429 .
+3430 `` ``
+
+3431 what WDT
+
+3432 this DT
+
+3433 amounts VBZ
+
+3434 to IN
+
+3435 ,
+3436 if CS
+
+3437 true JJ
+
+3438 ,
+3439 is BEZ
+
+3440 that CS
+
+3441 there EX
+
+3442 will MD
+
+3443 be BE
+
+3444 a AT
+
+3445 free-for-all JJ
+
+3446 fight NN
+
+3447 in IN
+
+3448 this DT
+
+3449 case NN
+
+3450 .
+3451 there EX
+
+3452 is BEZ
+
+3453 a AT
+
+3454 conflict NN
+
+3455 among IN
+
+3456 the AT
+
+3457 defendants NNS
+
+3458 '' ''
+
+3459 .
+3460 washington NP
+
+3461 ,
+3462 the AT
+
+3463 president NN
+
+3464 spent VBD
+
+3465 much AP
+
+3466 of IN
+
+3467 the AT
+
+3468 week-end NN
+
+3469 at IN
+
+3470 his PP$
+
+3471 summer NN
+
+3472 home NN
+
+3473 on IN
+
+3474 cape NN-TL
+
+3475 cod NN-TL
+
+3476 writing VBG
+
+3477 the AT
+
+3478 first OD
+
+3479 drafts NNS
+
+3480 of IN
+
+3481 portions NNS
+
+3482 of IN
+
+3483 the AT
+
+3484 address NN
+
+3485 with IN
+
+3486 the AT
+
+3487 help NN
+
+3488 of IN
+
+3489 white JJ-TL
+
+3490 house NN-TL
+
+3491 aids NNS
+
+3492 in IN
+
+3493 washington NP
+
+3494 with IN
+
+3495 whom WPO
+
+3496 he PPS
+
+3497 talked VBD
+
+3498 by IN
+
+3499 telephone NN
+
+3500 .
+3501 shortly RB
+
+3502 after CS
+
+3503 the AT
+
+3504 chief NN
+
+3505 executive NN
+
+3506 returned VBD
+
+3507 to IN
+
+3508 washington NP
+
+3509 in IN
+
+3510 midmorning NN
+
+3511 from IN
+
+3512 hyannis NP
+
+3513 port NN-TL
+
+3514 ,
+3515 mass. NP
+
+3516 ,
+3517 a AT
+
+3518 white JJ-TL
+
+3519 house NN-TL
+
+3520 spokesman NN
+
+3521 said VBD
+
+3522 the AT
+
+3523 address NN
+
+3524 text NN
+
+3525 still RB
+
+3526 had HVD
+
+3527 `` ``
+
+3528 quite ABL
+
+3529 a AT
+
+3530 way NN
+
+3531 to TO
+
+3532 go VB
+
+3533 '' ''
+
+3534 toward IN
+
+3535 completion NN
+
+3536 .
+3537 decisions NNS-HL
+
+3538 are BER-HL
+
+3539 made VBN-HL
+
+3540 asked VBN
+
+3541 to TO
+
+3542 elaborate VB
+
+3543 ,
+3544 pierre NP
+
+3545 salinger NP
+
+3546 ,
+3547 white JJ-TL
+
+3548 house NN-TL
+
+3549 press NN
+
+3550 secretary NN
+
+3551 ,
+3552 replied VBD
+
+3553 ,
+3554 `` ``
+
+3555 i PPSS
+
+3556 would MD
+
+3557 say VB
+
+3558 it's PPS+HVZ
+
+3559 got VBN
+
+3560 to TO
+
+3561 go VB
+
+3562 thru IN
+
+3563 several AP
+
+3564 more AP
+
+3565 drafts NNS
+
+3566 '' ''
+
+3567 .
+3568 salinger NP
+
+3569 said VBD
+
+3570 the AT
+
+3571 work NN
+
+3572 president NN-TL
+
+3573 kennedy NP
+
+3574 ,
+3575 advisers NNS
+
+3576 ,
+3577 and CC
+
+3578 members NNS
+
+3579 of IN
+
+3580 his PP$
+
+3581 staff NN
+
+3582 were BED
+
+3583 doing VBG
+
+3584 on IN
+
+3585 the AT
+
+3586 address NN
+
+3587 involved VBD
+
+3588 composition NN
+
+3589 and CC
+
+3590 wording VBG
+
+3591 ,
+3592 rather IN
+
+3593 than IN
+
+3594 last AP
+
+3595 minute NN
+
+3596 decisions NNS
+
+3597 on IN
+
+3598 administration NN
+
+3599 plans NNS
+
+3600 to TO
+
+3601 meet VB
+
+3602 the AT
+
+3603 latest JJT
+
+3604 berlin NP
+
+3605 crisis NN
+
+3606 precipitated VBN
+
+3607 by IN
+
+3608 russia's NP$
+
+3609 demands NNS
+
+3610 and CC
+
+3611 proposals NNS
+
+3612 for IN
+
+3613 the AT
+
+3614 city NN
+
+3615 .
+3616 who WPS
+
+3617 charged VBD
+
+3618 that CS
+
+3619 the AT
+
+3620 prosecution NN
+
+3621 obtained VBN
+
+3622 evidence NN
+
+3623 `` ``
+
+3624 by IN
+
+3625 unfair JJ
+
+3626 and CC
+
+3627 fundamentally QL
+
+3628 illegal JJ
+
+3629 means NNS
+
+3630 '' ''
+
+3631 .
+3632 karns NP
+
+3633 said VBD
+
+3634 that CS
+
+3635 the AT
+
+3636 cases NNS
+
+3637 involved VBD
+
+3638 a AT
+
+3639 matter NN
+
+3640 `` ``
+
+3641 of IN
+
+3642 even QL
+
+3643 greater JJR
+
+3644 significance NN
+
+3645 than IN
+
+3646 the AT
+
+3647 guilt NN
+
+3648 or CC
+
+3649 innocence NN
+
+3650 '' ''
+
+3651 of IN
+
+3652 the AT
+
+3653 50 CD
+
+3654 persons NNS
+
+3655 .
+3656 he PPS
+
+3657 said VBD
+
+3658 evidence NN
+
+3659 was BEDZ
+
+3660 obtained VBN
+
+3661 `` ``
+
+3662 in IN
+
+3663 violation NN
+
+3664 of IN
+
+3665 the AT
+
+3666 legal JJ
+
+3667 rights NNS
+
+3668 of IN
+
+3669 citizens NNS
+
+3670 '' ''
+
+3671 .
+3672 karns' NP$
+
+3673 ruling NN
+
+3674 pertained VBD
+
+3675 to IN
+
+3676 eight CD
+
+3677 of IN
+
+3678 the AT
+
+3679 10 CD
+
+3680 cases NNS
+
+3681 .
+3682 in IN
+
+3683 the AT
+
+3684 two CD
+
+3685 other AP
+
+3686 cases NNS
+
+3687 he PPS
+
+3688 ruled VBD
+
+3689 that CS
+
+3690 the AT
+
+3691 state NN
+
+3692 had HVD
+
+3693 been BEN
+
+3694 `` ``
+
+3695 unable JJ
+
+3696 to TO
+
+3697 make VB
+
+3698 a AT
+
+3699 case NN
+
+3700 '' ''
+
+3701 .
+3702 contempt NN
+
+3703 proceedings NNS
+
+3704 originally RB
+
+3705 had HVD
+
+3706 been BEN
+
+3707 brought VBN
+
+3708 against IN
+
+3709 677 CD
+
+3710 persons NNS
+
+3711 in IN
+
+3712 133 CD
+
+3713 precincts NNS
+
+3714 by IN
+
+3715 morris NP
+
+3716 j. NP
+
+3717 wexler NP
+
+3718 ,
+3719 special JJ
+
+3720 prosecutor NN
+
+3721 .
+3722 issue VB-HL
+
+3723 jury NN-HL
+
+3724 subpoenas NNS-HL
+
+3725 wexler NP
+
+3726 admitted VBD
+
+3727 in IN
+
+3728 earlier JJR
+
+3729 court NN
+
+3730 hearings NNS
+
+3731 that CS
+
+3732 he PPS
+
+3733 issued VBD
+
+3734 grand JJ
+
+3735 jury NN
+
+3736 subpenas NNS
+
+3737 to IN
+
+3738 about IN
+
+3739 200 CD
+
+3740 persons NNS
+
+3741 involved VBN
+
+3742 in IN
+
+3743 the AT
+
+3744 election NN
+
+3745 investigation NN
+
+3746 ,
+3747 questioned VBD
+
+3748 the AT
+
+3749 individuals NNS
+
+3750 in IN
+
+3751 the AT
+
+3752 criminal JJ-TL
+
+3753 courts NNS
+
+3754 building NN
+
+3755 ,
+3756 mayer NP
+
+3757 goldberg NP
+
+3758 ,
+3759 attorney NN
+
+3760 for IN
+
+3761 election NN
+
+3762 judges NNS
+
+3763 in IN
+
+3764 the AT
+
+3765 58th OD
+
+3766 precinct NN
+
+3767 of IN
+
+3768 the AT
+
+3769 23d OD
+
+3770 ward NN
+
+3771 ,
+3772 argued VBD
+
+3773 this DT
+
+3774 procedure NN
+
+3775 constituted VBD
+
+3776 intimidation NN
+
+3777 .
+3778 wexler NP
+
+3779 has HVZ
+
+3780 denied VBN
+
+3781 repeatedly RB
+
+3782 that CS
+
+3783 coercion NN
+
+3784 was BEDZ
+
+3785 used VBN
+
+3786 in IN
+
+3787 questioning VBG
+
+3788 .
+3789 karns NP
+
+3790 said VBD
+
+3791 it PPS
+
+3792 was BEDZ
+
+3793 a AT
+
+3794 `` ``
+
+3795 wrongful JJ
+
+3796 act NN
+
+3797 '' ''
+
+3798 for IN
+
+3799 wexler NP
+
+3800 to TO
+
+3801 take VB
+
+3802 statements NNS
+
+3803 `` ``
+
+3804 privately RB
+
+3805 and CC
+
+3806 outside IN
+
+3807 of IN
+
+3808 the AT
+
+3809 grand JJ
+
+3810 jury NN
+
+3811 room NN
+
+3812 '' ''
+
+3813 .
+3814 he PPS
+
+3815 said VBD
+
+3816 this DT
+
+3817 constituted VBD
+
+3818 a AT
+
+3819 `` ``
+
+3820 very QL
+
+3821 serious JJ
+
+3822 misuse NN
+
+3823 '' ''
+
+3824 of IN
+
+3825 the AT
+
+3826 criminal JJ-TL
+
+3827 court NN-TL
+
+3828 processes NNS
+
+3829 .
+3830 `` ``
+
+3831 actually RB
+
+3832 ,
+3833 the AT
+
+3834 abuse NN
+
+3835 of IN
+
+3836 the AT
+
+3837 process NN
+
+3838 may MD
+
+3839 have HV
+
+3840 constituted VBN
+
+3841 a AT
+
+3842 contempt NN
+
+3843 of IN
+
+3844 the AT
+
+3845 criminal JJ-TL
+
+3846 court NN-TL
+
+3847 of IN-TL
+
+3848 cook NP-TL
+
+3849 county NN-TL
+
+3850 ,
+3851 said VBD
+
+3852 karns NP
+
+3853 ,
+3854 who WPS
+
+3855 is BEZ
+
+3856 a AT
+
+3857 city NN
+
+3858 judge NN
+
+3859 in IN
+
+3860 east JJ-TL
+
+3861 st. NP-TL
+
+3862 louis NP-TL
+
+3863 sitting VBG
+
+3864 in IN
+
+3865 cook NP
+
+3866 county NN
+
+3867 court NN
+
+3868 .
+3869 faced VBD-HL
+
+3870 seven CD-HL
+
+3871 cases NNS-HL
+
+3872 karns NP
+
+3873 had HVD
+
+3874 been BEN
+
+3875 scheduled VBN
+
+3876 this DT
+
+3877 week NN
+
+3878 to TO
+
+3879 hear VB
+
+3880 seven CD
+
+3881 cases NNS
+
+3882 involving VBG
+
+3883 35 CD
+
+3884 persons NNS
+
+3885 .
+3886 wexler NP
+
+3887 had HVD
+
+3888 charged VBN
+
+3889 the AT
+
+3890 precinct NN
+
+3891 judges NNS
+
+3892 in IN
+
+3893 these DTS
+
+3894 cases NNS
+
+3895 with IN
+
+3896 `` ``
+
+3897 complementary JJ
+
+3898 '' ''
+
+3899 miscount NN
+
+3900 of IN
+
+3901 the AT
+
+3902 vote NN
+
+3903 ,
+3904 in IN
+
+3905 which WDT
+
+3906 votes NNS
+
+3907 would MD
+
+3908 be BE
+
+3909 taken VBN
+
+3910 from IN
+
+3911 one CD
+
+3912 candidate NN
+
+3913 and CC
+
+3914 given VBN
+
+3915 to IN
+
+3916 another DT
+
+3917 .
+3918 the AT
+
+3919 cases NNS
+
+3920 involved VBD
+
+3921 judges NNS
+
+3922 in IN
+
+3923 the AT
+
+3924 33d OD
+
+3925 ,
+3926 24th OD
+
+3927 ,
+3928 and CC
+
+3929 42d OD
+
+3930 precincts NNS
+
+3931 of IN
+
+3932 the AT
+
+3933 31st OD
+
+3934 ward NN
+
+3935 ,
+3936 the AT
+
+3937 21st OD
+
+3938 and CC
+
+3939 28th OD
+
+3940 precincts NNS
+
+3941 of IN
+
+3942 the AT
+
+3943 29th OD
+
+3944 ward NN
+
+3945 ,
+3946 the AT
+
+3947 18th OD
+
+3948 precinct NN
+
+3949 of IN
+
+3950 the AT
+
+3951 4th OD
+
+3952 ward NN
+
+3953 ,
+3954 and CC
+
+3955 the AT
+
+3956 9th OD
+
+3957 precinct NN
+
+3958 of IN
+
+3959 the AT
+
+3960 23d OD
+
+3961 ward NN
+
+3962 .
+3963 the AT
+
+3964 case NN
+
+3965 of IN
+
+3966 the AT
+
+3967 judges NNS
+
+3968 in IN
+
+3969 the AT
+
+3970 58th OD
+
+3971 precinct NN
+
+3972 of IN
+
+3973 the AT
+
+3974 23d OD
+
+3975 ward NN
+
+3976 had HVD
+
+3977 been BEN
+
+3978 heard VBN
+
+3979 previously RB
+
+3980 and CC
+
+3981 taken VBN
+
+3982 under IN
+
+3983 advisement NN
+
+3984 by IN
+
+3985 karns NP
+
+3986 .
+3987 two CD
+
+3988 other AP
+
+3989 cases NNS
+
+3990 also RB
+
+3991 were BED
+
+3992 under IN
+
+3993 advisement NN
+
+3994 .
+3995 claims VBZ-HL
+
+3996 precedent NN-HL
+
+3997 lacking VBG-HL
+
+3998 after IN
+
+3999 reading VBG
+
+4000 his PP$
+
+4001 statement NN
+
+4002 discharging VBG
+
+4003 the AT
+
+4004 23d OD
+
+4005 ward NN
+
+4006 case NN
+
+4007 ,
+4008 karns NP
+
+4009 told VBD
+
+4010 wexler NP
+
+4011 that CS
+
+4012 if CS
+
+4013 the AT
+
+4014 seven CD
+
+4015 cases NNS
+
+4016 scheduled VBN
+
+4017 for IN
+
+4018 trial NN
+
+4019 also RB
+
+4020 involved VBD
+
+4021 persons NNS
+
+4022 who WPS
+
+4023 had HVD
+
+4024 been BEN
+
+4025 subpenaed VBN
+
+4026 ,
+4027 he PPS
+
+4028 would MD
+
+4029 dismiss VB
+
+4030 them PPO
+
+4031 .
+4032 washington NP
+
+4033 ,
+4034 the AT
+
+4035 president NN
+
+4036 ,
+4037 in IN
+
+4038 a AT
+
+4039 special JJ
+
+4040 message NN
+
+4041 to IN
+
+4042 congress NP
+
+4043 ,
+4044 tied VBD
+
+4045 in IN
+
+4046 with IN
+
+4047 his PP$
+
+4048 aged VBN
+
+4049 care NN
+
+4050 plan NN
+
+4051 requests NNS
+
+4052 for IN
+
+4053 large JJ
+
+4054 federal JJ
+
+4055 grants NNS
+
+4056 to TO
+
+4057 finance VB
+
+4058 medical JJ
+
+4059 and CC
+
+4060 dental JJ
+
+4061 scholarships NNS
+
+4062 ,
+4063 and CC
+
+4064 expand VB
+
+4065 child NN
+
+4066 health NN
+
+4067 care NN
+
+4068 and CC
+
+4069 general JJ
+
+4070 medical JJ
+
+4071 research NN
+
+4072 .
+4073 the AT
+
+4074 aged VBN
+
+4075 care NN
+
+4076 plan NN
+
+4077 ,
+4078 similar JJ
+
+4079 to IN
+
+4080 one CD
+
+4081 the AT
+
+4082 president NN
+
+4083 sponsored VBD
+
+4084 last AP
+
+4085 year NN
+
+4086 as CS
+
+4087 a AT
+
+4088 senator NN
+
+4089 ,
+4090 a AT
+
+4091 fight NN
+
+4092 on IN
+
+4093 capitol NN-TL
+
+4094 hill NN-TL
+
+4095 .
+4096 it PPS
+
+4097 was BEDZ
+
+4098 defeated VBN
+
+4099 in IN
+
+4100 congress NP
+
+4101 last AP
+
+4102 year NN
+
+4103 .
+4104 the AT
+
+4105 kennedy NP
+
+4106 plan NN
+
+4107 alone RB
+
+4108 would MD
+
+4109 boost VB
+
+4110 the AT
+
+4111 base NN
+
+4112 to IN
+
+4113 $5,000 NNS
+
+4114 a AT
+
+4115 year NN
+
+4116 and CC
+
+4117 the AT
+
+4118 payroll NN
+
+4119 tax NN
+
+4120 to IN
+
+4121 6.5 CD
+
+4122 per IN
+
+4123 cent NN
+
+4124 -- --
+
+4125 3.25 CD
+
+4126 per IN
+
+4127 cent NN
+
+4128 each DT
+
+4129 .
+4130 similar JJ
+
+4131 payroll NN
+
+4132 tax NN
+
+4133 boosts NNS
+
+4134 would MD
+
+4135 be BE
+
+4136 imposed VBN
+
+4137 on IN
+
+4138 those DTS
+
+4139 under IN
+
+4140 the AT
+
+4141 railroad NN
+
+4142 retirement NN
+
+4143 system NN
+
+4144 .
+4145 the AT
+
+4146 payroll NN
+
+4147 tax NN
+
+4148 would MD
+
+4149 actually RB
+
+4150 rise VB
+
+4151 to IN
+
+4152 7.5 CD
+
+4153 per IN
+
+4154 cent NN
+
+4155 starting VBG
+
+4156 jan. NP
+
+4157 1 CD
+
+4158 ,
+4159 1963 CD
+
+4160 ,
+4161 if CS
+
+4162 the AT
+
+4163 plan NN
+
+4164 is BEZ
+
+4165 approved VBN
+
+4166 ,
+4167 because CS
+
+4168 the AT
+
+4169 levy NN
+
+4170 is BEZ
+
+4171 already RB
+
+4172 scheduled VBN
+
+4173 to TO
+
+4174 go VB
+
+4175 up RP
+
+4176 by IN
+
+4177 1 CD
+
+4178 per IN
+
+4179 cent NN
+
+4180 on IN
+
+4181 that DT
+
+4182 date NN
+
+4183 to TO
+
+4184 pay VB
+
+4185 for IN
+
+4186 other AP
+
+4187 social JJ
+
+4188 security NN
+
+4189 costs NNS
+
+4190 .
+4191 outlays NNS-HL
+
+4192 would MD-HL
+
+4193 increase VB-HL
+
+4194 officials NNS
+
+4195 estimated VBD
+
+4196 the AT
+
+4197 annual JJ
+
+4198 tax NN
+
+4199 boost NN
+
+4200 for IN
+
+4201 the AT
+
+4202 medical JJ
+
+4203 plan NN
+
+4204 would MD
+
+4205 amount VB
+
+4206 to IN
+
+4207 1.5 CD
+
+4208 billion CD
+
+4209 dollars NNS
+
+4210 and CC
+
+4211 that CS
+
+4212 medical JJ
+
+4213 benefits NNS
+
+4214 paid VBN
+
+4215 out RP
+
+4216 would MD
+
+4217 run VB
+
+4218 1 CD
+
+4219 billion CD
+
+4220 or CC
+
+4221 more AP
+
+4222 in IN
+
+4223 the AT
+
+4224 first OD
+
+4225 year NN
+
+4226 ,
+4227 1963 CD
+
+4228 .
+4229 both ABX
+
+4230 figures NNS
+
+4231 would MD
+
+4232 go VB
+
+4233 higher RBR
+
+4234 in IN
+
+4235 later JJR
+
+4236 years NNS
+
+4237 .
+4238 these DTS
+
+4239 would MD
+
+4240 be BE
+
+4241 paid VBN
+
+4242 for IN
+
+4243 out IN
+
+4244 of IN
+
+4245 general NN
+
+4246 ,
+4247 taxes NNS
+
+4248 .
+4092
+0.963276836158 %

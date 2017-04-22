@@ -19,6 +19,7 @@ class Compare:
         self.__fileMade = "./wordSets/POStagged.txt"
         self.testString = self.__getFile(self.__testFile)
         self.madeString = self.__getFile(self.__fileMade)
+        self.testString = self.testString.replace(", ,-HL",", ,")
         self.count = 0
         self.wrong = 0
         self.correct = 0
@@ -57,11 +58,16 @@ class Compare:
                 count +=1
         return count + 1
 
+    def test(self):
+        sentence1 = self.__getSentence(self.testString)
+        sentence2= self.__getSentence(self.madeString)
+
     #Compares a valid sentence's tags.
     #If the sentence is not valid then it skips and moves onto
     #the next one.
     def compareSentences(self):
         nextCount = 0
+        lineCount = 0
         try:
             for char in self.madeString:
                 sentence1 = self.__getSentence(self.testString)
@@ -72,9 +78,10 @@ class Compare:
 
                     #checks the word + tag for every line
                     for i in range(self.__sentenceLength(sentence1)):
+                        lineCount +=1
                         line1 = self.__getLine(sentence1,1)
                         line2 = self.__getLine(sentence2,1)
-
+                        print lineCount,line2
                         #if they're the same, add one to correct
                         if(line1 == line2):
                             self.count+=1
@@ -149,15 +156,31 @@ class Compare:
                 return line
         return line
 
+    def isCorrect(self,tmpString, spot):
+        for i in range(len(tmpString)):
+            char = tmpString[spot]
+            spot+=1
+            if(char == '\n'):
+                return True
+            if(char.isalpha()):
+                return False
+
     #get a full sentence
     def __getSentence(self,tmpString):
         sentence = ""
+        spot = 0
         for char in tmpString:
+            #print char
             if(self.__isTriggerObs(char)):
-                sentence += char
-                return sentence
+                if(self.isCorrect(tmpString,spot) == False):
+                    sentence += char
+                else:
+                    sentence += char
+                    return sentence
             else:
                 sentence += char
+            spot +=1
+        return False
 
     #get the amount of WORDS in the specified amount
     def __getWord(self,line):
@@ -210,6 +233,7 @@ class Compare:
 
 if(__name__ == "__main__"):
     FC =Compare()
+    #FC.test()
     FC.compareSentences()
     print FC.getCorrect()
     print FC.percentCorrect(),"%"
