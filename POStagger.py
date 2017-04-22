@@ -207,7 +207,7 @@ class POStagger:
         obs = []
 
         for line in rawFile:
-            newLine = line.strip('/n')
+            newLine = line.strip('\n')
             newLine = newLine.split(' ')
             obs.append(newLine[0]) # first element is the observation
 

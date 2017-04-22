@@ -71,11 +71,14 @@ class Compare:
     def compareSentences(self):
         nextCount = 0
         lineCount = 0
+        findNum = 0
         try:
             for char in self.madeString:
                 sentence1 = self.__getSentence(self.testString)
                 sentence2= self.__getSentence(self.madeString)
-
+                if(findNum == 1100):
+                    print self.correct,self.sentencesThrown
+                findNum+=1
                 #if the sentences are the same
                 if(self.__checkSentences(sentence1,sentence2) == True):
                     self.sentences+=1
@@ -264,3 +267,4 @@ if(__name__ == "__main__"):
     print "Percentage Correct: ", FC.percentCorrect(),"%"
     print "Sentences Used: ", FC.getSentences()
     print "Sentences thrown out: ",FC.getSentencesThrown()
+    print

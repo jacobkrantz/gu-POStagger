@@ -63,16 +63,9 @@ class CorpusUtils:
     # percentCorp applies to beginning or corpus
     def __cutLst(self, percentCorp):
         trimLst = []
-        '''
-        for i in range(0,len(self.__taggedWords)-1):
-            s = self.__taggedWords[i][0]
-
-            if s.isalnum(): # removes all non-alphanumeric entries
-                trimLst.append(self.__taggedWords[i])
-        '''
         trimLst = self.__taggedWords
         length = len(trimLst) * percentCorp / 100
-        trimLst = trimLst[:length]
+        trimLst = trimLst[:int(length)]
         return trimLst, len(trimLst)
 
 
@@ -99,7 +92,7 @@ class CorpusUtils:
         testLen  = len(testSet)
         trainLen = len(trainSet)
 
-        perCorpus = str(percentCorp) + ".0%"
+        perCorpus = str(percentCorp) + "%"
         perTest  = testLen / float(CorpSize)
         perTrain = trainLen / float(CorpSize)
         perTest  = "{0:.1f}".format(perTest * 100)
@@ -114,4 +107,4 @@ class CorpusUtils:
 if(__name__ == "__main__"):
     cu = CorpusUtils()
     cu.getTaggedWords()
-    cu.buildSets(10,5)
+    cu.buildSets(10,12)
