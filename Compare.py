@@ -24,6 +24,9 @@ class Compare:
         self.wrong = 0
         self.correct = 0
 
+        self.sentences = 0
+        self.sentencesThrown = 0
+
         self.wrongLst = []
         self.correctLst = []
         #print length
@@ -75,13 +78,13 @@ class Compare:
 
                 #if the sentences are the same
                 if(self.__checkSentences(sentence1,sentence2) == True):
-
+                    self.sentences+=1
                     #checks the word + tag for every line
                     for i in range(self.__sentenceLength(sentence1)):
                         lineCount +=1
                         line1 = self.__getLine(sentence1,1)
                         line2 = self.__getLine(sentence2,1)
-                        print lineCount,line2
+                        #print lineCount,line2
                         #if they're the same, add one to correct
                         if(line1 == line2):
                             self.count+=1
@@ -105,6 +108,7 @@ class Compare:
                     #else same word different tag, add 1 to count and wrong
                 else:
                     #if the sentence isn't in the created file then delete and move on
+                    self.sentencesThrown+=1
                     self.testString = self.__deleteSentence(self.testString)
 
         #can't figure out how to find out how many sentences are in the test file
@@ -231,9 +235,32 @@ class Compare:
     def percentCorrect(self):
         return float(self.correct/float(self.count))
 
+    #returns the amount of sentences in the set that were used
+    def getSentences(self):
+        return self.sentences
+
+    #returns the amount of sentences in the set that were thrown out
+    def getSentencesThrown(self):
+        return self.sentencesThrown
+
+    #returns the words that were tagged incorrectly
+    #In form of (word tag, word tag) in a list
+    #word1 is the correctly tagged word with the tag
+    #word2 is the incorrectly tagged word with the tag
+    def getWrongWords(self):
+        return self.wrongLst
+
+    #returns the words that were tagged correc
+    def getCorrectLst(self):
+        return self.correctLst
+
 if(__name__ == "__main__"):
     FC =Compare()
     #FC.test()
     FC.compareSentences()
-    print FC.getCorrect()
-    print FC.percentCorrect(),"%"
+    print "# Tagged Correctly: ",FC.getCorrect()
+    print "Total Tagged: ", FC.getCount()
+    print "# Tagged incorrectly: ",FC.getWrong()
+    print "Percentage Correct: ", FC.percentCorrect(),"%"
+    print "Sentences Used: ", FC.getSentences()
+    print "Sentences thrown out: ",FC.getSentencesThrown()
